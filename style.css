@@ -1,0 +1,38 @@
+/* Lightest pink page background */
+body {
+    background-color: #fff7fa !important; /* ultra-light pink */
+}
+
+/* Main Streamlit container backgrounds */
+.stApp {
+    background-color: #fff7fa !important; /* match body */
+}
+
+/* Text inputs, select boxes, and text areas */
+div[data-baseweb="input"],
+div[data-baseweb="select"],
+textarea {
+    background-color: #dbeafe !important; /* pastel blue */
+    color: black !important;
+    border-radius: 6px !important;
+    border: 1px solid #bcd0f7 !important;
+}
+
+/* Dropdown menu background + options */
+ul[role="listbox"],
+ul[role="listbox"] li {
+    background-color: #dbeafe !important; /* pastel blue */
+    color: black !important;
+}
+
+/* Hover effect for dropdown items */
+ul[role="listbox"] li:hover {
+    background-color: #c7dfff !important; /* slightly darker pastel blue */
+}
+
+/* Remove weird shadows */
+div[data-baseweb="select"] > div {
+    box-shadow: none !important;
+}
+
+

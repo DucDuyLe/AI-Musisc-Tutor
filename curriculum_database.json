@@ -1,0 +1,5686 @@
+{
+  "theory_syllabus": {
+    "grade_1": {
+      "theory_topics": [
+        "Treble and bass clefs",
+        "Pitches with up to two ledger lines",
+        "Accidentals",
+        "Scales of C, G and F major",
+        "Key signatures",
+        "Tones and semitones",
+        "Scale degrees",
+        "Diatonic intervals above the tonic (treble clef only, number only)",
+        "Tonic triad chords in root position (treble clef only)",
+        "Note values from semibreve to quaver (including dotted minims)",
+        "Rest values of minim and crotchet",
+        "Time signatures of 2/4, 3/4, 4/4 and C",
+        "Transposition into any other key of this grade",
+        "Basic musical terms"
+      ],
+      "practical_skills": [
+        "Reading treble and bass clefs",
+        "Identifying accidentals",
+        "Playing major scales (C, G, F)",
+        "Recognizing key signatures",
+        "Understanding time signatures",
+        "Basic transposition"
+      ],
+      "exam_structure": {
+        "duration": "2 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural"
+        ]
+      }
+    },
+    "grade_2": {
+      "theory_topics": [
+        "Major scales of D and A",
+        "Minor harmonic scales of Am, Em and Dm",
+        "Intervals above the tonic by number and quality (treble clef only)",
+        "Tonic triads in the keys for this grade",
+        "Semiquavers, quaver triplets and dotted notes",
+        "The anacrusis",
+        "The whole bar (semibreve) rest",
+        "Time signature of 6/8",
+        "Transposition into any other key for this grade",
+        "Terms and signs",
+        "Binary and ternary form",
+        "Identification of accented syllables in a text"
+      ],
+      "practical_skills": [
+        "Playing major scales (D, A)",
+        "Playing minor harmonic scales (Am, Em, Dm)",
+        "Interval recognition",
+        "Triad construction",
+        "Rhythm with semiquavers and triplets",
+        "Form analysis"
+      ],
+      "exam_structure": {
+        "duration": "2.5 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition"
+        ]
+      }
+    },
+    "grade_3": {
+      "theory_topics": [
+        "Major scales of E, Eb, Bb and Ab",
+        "Minor harmonic scales of Gm and Cm",
+        "Intervals above the tonic in all keys (treble and bass clefs)",
+        "Primary triads (tonic, dominant and subdominant)",
+        "Root position and first inversion triads",
+        "Perfect and plagal cadences",
+        "SATB vocal style and range",
+        "Time signatures of 2/2, 3/2, 3/8 and 9/8",
+        "Transposition into any key for this grade",
+        "Terms and signs",
+        "Sequences",
+        "Rondo form",
+        "Set a rhythm to a provided text",
+        "Compose a 4-bar melody in a major key based on a given rhythmic pattern"
+      ],
+      "practical_skills": [
+        "Playing all major scales (E, Eb, Bb, Ab)",
+        "Playing minor harmonic scales (Gm, Cm)",
+        "Cadence recognition and construction",
+        "SATB writing",
+        "Melody composition",
+        "Form analysis"
+      ],
+      "exam_structure": {
+        "duration": "3 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis"
+        ]
+      }
+    },
+    "grade_4": {
+      "theory_topics": [
+        "Major scales of B, F#, Db and Gb",
+        "Harmonic minor scales of Bm, F#m, C#m and Bbm",
+        "Double flats and sharps",
+        "All diatonic intervals plus their qualities",
+        "Recognition of modulation to the dominant or relative key",
+        "Syncopation",
+        "Adding bar lines",
+        "Time signatures of 6/4 and 12/8",
+        "Chords II, ii, VI and vi in root position and first inversion",
+        "Imperfect and interrupted cadences",
+        "Writing cadences in SATB style",
+        "Harmonisation of a melody in SATB style",
+        "Set a rhythm to a given text couplet (8 bars)",
+        "Compose a melody to a given rhythm (8 bars)",
+        "Transposition into any key from the grade",
+        "Terms and signs",
+        "Ornaments",
+        "Baroque Suites",
+        "Orchestral String Instruments"
+      ],
+      "practical_skills": [
+        "Playing all major and minor scales",
+        "Modulation recognition",
+        "Advanced harmonisation",
+        "Melody composition",
+        "Ornamentation",
+        "Instrument knowledge"
+      ],
+      "exam_structure": {
+        "duration": "3.5 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Orchestration"
+        ]
+      }
+    },
+    "grade_5": {
+      "theory_topics": [
+        "All major scales",
+        "All minor scales in harmonic and melodic forms",
+        "All key signatures",
+        "All intervals, and their inversions",
+        "Recognition of modulation to the subdominant",
+        "Chord vii\u00b0 in minor keys",
+        "Chord Ic, the cadential 6/4",
+        "Unaccented passing and auxiliary notes",
+        "Harmonisation of a melody in SATB or keyboard style including modulation",
+        "Compose a melody to a 4-line stanza of poetry",
+        "Compose an instrumental melody based on a given opening (8 bars)",
+        "Minuet and Trio form, Scherzo, Air with Variations, Recitative and Aria",
+        "Knowledge of composers",
+        "Orchestral woodwind instruments (standard)"
+      ],
+      "practical_skills": [
+        "Playing all scales in all forms",
+        "Advanced modulation",
+        "Complex harmonisation",
+        "Poetry setting",
+        "Instrumental composition",
+        "Musical form analysis"
+      ],
+      "exam_structure": {
+        "duration": "4 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Musicology"
+        ]
+      }
+    },
+    "grade_6": {
+      "theory_topics": [
+        "Chord iii",
+        "Passing 6/4 chords",
+        "Dominant 7th chords",
+        "Accented passing notes",
+        "Suspensions",
+        "Tierce de Picardie",
+        "Simple two-part counterpoint in keyboard style",
+        "Compose a melody to a 4-line stanza of poetry, with modulation",
+        "Compose a vocal melody after a given phrase, with modulation",
+        "Sonata, Symphony, Concerto, Overture",
+        "Knowledge of composers with reference to examples",
+        "Sonata form",
+        "Reference to piano sonata by Mozart or Beethoven",
+        "Set work: two movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+      ],
+      "practical_skills": [
+        "Advanced counterpoint",
+        "Complex modulation",
+        "Vocal composition",
+        "Form analysis",
+        "Historical performance practice",
+        "Set work analysis"
+      ],
+      "exam_structure": {
+        "duration": "4.5 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Musicology",
+          "Set Work"
+        ]
+      }
+    },
+    "grade_7": {
+      "theory_topics": [
+        "Chromatic harmony: Neapolitan 6th and augmented 6th chords",
+        "Secondary dominants and tonicizations",
+        "Modulation to remote keys",
+        "Diminished 7th chords and their resolutions",
+        "Suspensions and retardations in four-part writing",
+        "Simple three-part counterpoint",
+        "Fugal exposition (subject, answer, countersubject)",
+        "Analysis of Romantic and early 20th-century forms",
+        "Set work: analysis of a Romantic symphonic movement",
+        "Orchestration basics: brass and percussion instruments",
+        "Score reading: orchestral reduction",
+        "Advanced ornamentation and articulation",
+        "Historical performance practice (Classical and Romantic eras)"
+      ],
+      "practical_skills": [
+        "Writing chromatic harmony in SATB style",
+        "Composing a short fugue exposition",
+        "Orchestrating a short piano excerpt for small orchestra",
+        "Score reading and reduction",
+        "Analysis of set works",
+        "Advanced harmonic and formal analysis"
+      ],
+      "exam_structure": {
+        "duration": "5 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Musicology",
+          "Set Work"
+        ]
+      }
+    },
+    "grade_8": {
+      "theory_topics": [
+        "Advanced chromatic harmony: enharmonic modulation, extended tertian chords (9th, 11th, 13th)",
+        "Altered dominants and borrowed chords",
+        "Complex modulations (chromatic mediants, enharmonic pivots)",
+        "Advanced suspensions, anticipations, and pedal points",
+        "Double and triple counterpoint",
+        "Fugue: episodes, stretto, inversion, augmentation, diminution",
+        "Analysis of late Romantic and Impressionist works",
+        "Set work: analysis of a 20th-century composition",
+        "Orchestration: transposing instruments, advanced textures",
+        "Score reading: full orchestral scores",
+        "Contemporary notation and extended techniques",
+        "Historical performance practice (Romantic to Modern eras)"
+      ],
+      "practical_skills": [
+        "Composing a complete fugue (minimum 16 bars)",
+        "Advanced orchestration for full orchestra",
+        "Score reading and analysis of complex scores",
+        "Writing and analyzing advanced chromatic harmony",
+        "Set work analysis (20th-century repertoire)",
+        "Historical analysis and contextual understanding"
+      ],
+      "exam_structure": {
+        "duration": "5.5 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Musicology",
+          "Set Work",
+          "Orchestration"
+        ]
+      }
+    },
+    "associate_diploma": {
+      "theory_topics": [
+        "Comprehensive chromatic harmony: late Romantic and early 20th-century idioms",
+        "Advanced modulation and enharmonic reinterpretation",
+        "Complex counterpoint: canon, invertible counterpoint, fugue (all devices)",
+        "Analysis of large-scale forms: symphony, concerto, opera, oratorio",
+        "Set work: in-depth analysis of a major symphonic or choral work",
+        "Orchestration: writing for full orchestra and chamber ensembles",
+        "Score reading: transposing and C scores",
+        "Contemporary techniques: atonality, serialism, minimalism",
+        "Historical performance practice (Baroque to Modern)",
+        "Musicological research methods"
+      ],
+      "practical_skills": [
+        "Composing a fugue with advanced devices (minimum 24 bars)",
+        "Orchestrating a movement for full orchestra",
+        "Score reading and reduction of complex orchestral works",
+        "Analytical essay on set work",
+        "Research and presentation on historical context",
+        "Advanced harmonic and formal analysis"
+      ],
+      "exam_structure": {
+        "duration": "6 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Musicology",
+          "Set Work",
+          "Orchestration",
+          "Research Essay"
+        ]
+      }
+    },
+    "licentiate_diploma": {
+      "theory_topics": [
+        "Advanced chromatic and post-tonal harmony",
+        "Complex counterpoint: double fugue, fugue with multiple subjects",
+        "Analysis of 20th and 21st-century music (serialism, neo-classicism, minimalism, jazz idioms)",
+        "Set work: detailed analysis of a major 20th-century or contemporary work",
+        "Orchestration: advanced techniques, contemporary ensembles, electronic media",
+        "Score reading: advanced orchestral and choral scores",
+        "Historical performance practice (all eras)",
+        "Musicological research and critical analysis"
+      ],
+      "practical_skills": [
+        "Composing a double fugue or fugue with advanced contrapuntal devices",
+        "Orchestrating for large and/or contemporary ensembles",
+        "Score reading of advanced orchestral and choral works",
+        "Analytical and critical essays on set works",
+        "Research and presentation of advanced musicological topics",
+        "Composition in contemporary idioms"
+      ],
+      "exam_structure": {
+        "duration": "6.5 hours",
+        "format": "Online exam",
+        "marks": "100 total",
+        "sections": [
+          "Theory",
+          "Practical",
+          "Aural",
+          "Composition",
+          "Analysis",
+          "Musicology",
+          "Set Work",
+          "Orchestration",
+          "Research Essay",
+          "Critical Review"
+        ]
+      }
+    },
+    "fellowship_diploma": {
+      "theory_topics": [
+        "Original research in music theory, analysis, or musicology",
+        "Advanced compositional techniques: extended tonality, atonality, experimental forms",
+        "Complex counterpoint: triple and quadruple fugue, advanced canonic techniques",
+        "Analysis of contemporary and cross-cultural music",
+        "Set work: comprehensive analysis of a major contemporary or cross-cultural work",
+        "Orchestration: writing for unconventional ensembles, electronic and multimedia integration",
+        "Score reading: advanced and non-standard notation",
+        "Historical and critical perspectives on performance practice",
+        "Musicological methodology and publication standards"
+      ],
+      "practical_skills": [
+        "Original composition or research thesis",
+        "Orchestration for advanced and unconventional ensembles",
+        "Score reading and analysis of complex and non-standard scores",
+        "Critical analysis and publication-ready research",
+        "Presentation and defense of research or creative work",
+        "Advanced analytical and musicological writing"
+      ],
+      "exam_structure": {
+        "duration": "By submission and viva voce (no fixed duration)",
+        "format": "Portfolio submission and oral examination",
+        "marks": "Pass/Fail or Distinction",
+        "sections": [
+          "Portfolio (Composition or Thesis)",
+          "Orchestration",
+          "Analysis",
+          "Musicology",
+          "Set Work",
+          "Research Presentation",
+          "Viva Voce"
+        ]
+      }
+    }
+  },
+  "instrument_syllabi": {
+    "piano": {
+      "preliminary": {
+        "theory_topics": [
+          "Treble and bass clefs",
+          "Pitches up to one ledger line",
+          "Accidentals (sharps, flats, naturals)",
+          "Scales of C, G and F major",
+          "Key signatures for C, G, F major",
+          "Tones and semitones",
+          "Simple time signatures (2/4, 3/4, 4/4)",
+          "Note values from semibreve to quaver",
+          "Basic musical terms"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Minuet in C",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "The Clown",
+            "composer": "D. Kabalevsky"
+          },
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "The Echo",
+            "composer": "C. Gurlitt"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (hands separately, one octave)",
+            "G major (hands separately, one octave)",
+            "F major (hands separately, one octave)"
+          ],
+          "arpeggios": [
+            "C major (hands separately, one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic or digital piano with weighted keys",
+          "accessories": [
+            "Adjustable piano bench",
+            "Footstool (if needed)",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "Chord iii and its use",
+          "Passing 6/4 chords",
+          "Dominant 7th chords and their resolution",
+          "Accented passing notes and suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Modulation to related keys",
+          "Analysis of sonata, symphony, concerto, overture",
+          "Sonata form structure",
+          "Reference to piano sonata by Mozart or Beethoven",
+          "Set work: two movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata in C major, Hob.XVI:35, 1st movt",
+            "composer": "J. Haydn"
+          },
+          {
+            "title": "Prelude in B minor, Op.28 No.6",
+            "composer": "F. Chopin"
+          },
+          {
+            "title": "Arabesque No. 1",
+            "composer": "C. Debussy"
+          },
+          {
+            "title": "Etude in C minor, Op.29 No.7",
+            "composer": "H. Czerny"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and harmonic minor scales, hands together, four octaves",
+            "All melodic minor scales, hands together, four octaves"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios, hands together, four octaves",
+            "Dominant 7th arpeggios, hands together, four octaves"
+          ]
+        },
+        "equipment": {
+          "instrument": "Grand or upright piano, well-maintained",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome",
+            "Pencil and eraser"
+          ]
+        },
+        "exam_structure": {
+          "duration": "45 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Sight Reading",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "Advanced chromatic harmony",
+          "Neapolitan and augmented 6th chords",
+          "Modulation to distant keys",
+          "Advanced counterpoint (two and three-part)",
+          "Analysis of complex forms (sonata-rondo, variation, fugue)",
+          "Orchestration basics for piano reductions",
+          "Stylistic features of Romantic and Impressionist piano music",
+          "Set work: analysis of a major piano sonata or concerto movement"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata in F major, Op.10 No.2, 1st movt",
+            "composer": "L. van Beethoven"
+          },
+          {
+            "title": "Etude in F minor, Op.25 No.2",
+            "composer": "F. Chopin"
+          },
+          {
+            "title": "Clair de Lune",
+            "composer": "C. Debussy"
+          },
+          {
+            "title": "Prelude and Fugue in C# major, BWV 848",
+            "composer": "J.S. Bach"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic), hands together, four octaves, varied rhythms and articulations"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th arpeggios, hands together, four octaves"
+          ]
+        },
+        "equipment": {
+          "instrument": "Grand piano (preferred) or high-quality upright",
+          "accessories": [
+            "Bench",
+            "Metronome",
+            "Pencil and eraser",
+            "Score copies"
+          ]
+        },
+        "exam_structure": {
+          "duration": "50 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Sight Reading",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic harmony and voice leading",
+          "Extended chords (9th, 11th, 13th)",
+          "Complex modulations and enharmonic reinterpretation",
+          "Fugue and advanced contrapuntal forms",
+          "Orchestration and piano transcription",
+          "Stylistic analysis of major piano repertoire",
+          "Historical performance practice"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata in B minor",
+            "composer": "F. Liszt"
+          },
+          {
+            "title": "Etude in D-sharp minor, Op.8 No.12",
+            "composer": "A. Scriabin"
+          },
+          {
+            "title": "Images, Book 1: Reflets dans l'eau",
+            "composer": "C. Debussy"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales, hands together, four octaves, varied rhythms, articulations, dynamics"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, hands together, four octaves, varied articulations"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert grand piano (preferred)",
+          "accessories": [
+            "Bench",
+            "Metronome",
+            "Pencil and eraser",
+            "Score copies"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Sight Reading",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic and atonal harmony",
+          "Analysis of 20th and 21st-century piano music",
+          "Advanced counterpoint (three and four-part)",
+          "Orchestration for piano and ensemble",
+          "Historical and analytical study of major piano works",
+          "Interpretative and stylistic issues in performance"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Piano Sonata No. 7, Op.83",
+            "composer": "S. Prokofiev"
+          },
+          {
+            "title": "Etudes-Tableaux, Op.39 No.5",
+            "composer": "S. Rachmaninoff"
+          },
+          {
+            "title": "Gaspard de la nuit: Scarbo",
+            "composer": "M. Ravel"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales, hands together, four octaves, varied rhythms, articulations, dynamics, and tempi"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, and extended arpeggios, hands together, four octaves"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert grand piano",
+          "accessories": [
+            "Bench",
+            "Metronome",
+            "Pencil and eraser",
+            "Score copies"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour 20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Sight Reading",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original research and analysis of piano literature",
+          "Advanced performance practice and interpretation",
+          "Comparative analysis of styles and schools of piano playing",
+          "Preparation of lecture-recital material",
+          "Critical study of editions and sources",
+          "Advanced improvisation and transcription"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Piano Sonata, Op.1",
+            "composer": "B. Berg"
+          },
+          {
+            "title": "Variations on a Theme by Paganini",
+            "composer": "W. Lutos\u0142awski"
+          },
+          {
+            "title": "Piano Concerto in G major (1st movt, solo part)",
+            "composer": "M. Ravel"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales, hands together, four octaves, at concert standard"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, and extended arpeggios, hands together, four octaves, at concert standard"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert grand piano (exclusive use)",
+          "accessories": [
+            "Bench",
+            "Metronome",
+            "Pencil and eraser",
+            "Score copies",
+            "Lecture materials (if required)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "2 hours",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Sight Reading",
+            "Aural",
+            "General Knowledge",
+            "Lecture-Recital (if applicable)"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble and bass clefs",
+          "Pitches with up to two ledger lines",
+          "Accidentals",
+          "Scales of C, G and F major",
+          "Key signatures",
+          "Tones and semitones",
+          "Scale degrees",
+          "Diatonic intervals above the tonic (number only, treble clef)",
+          "Tonic triad chords in root position (treble clef only)",
+          "Note values from semibreve to quaver (including dotted minims)",
+          "Rest values of minim and crotchet",
+          "Time signatures of 2/4, 3/4, 4/4 and C",
+          "Transposition into any other key of this grade",
+          "Basic musical terms"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Minuet in C",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "The Clown",
+            "composer": "D. Kabalevsky"
+          },
+          {
+            "title": "Lightly Row",
+            "composer": "German Folk Song"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (hands separately, one octave)",
+            "G major (hands separately, one octave)",
+            "F major (hands separately, one octave)"
+          ],
+          "arpeggios": [
+            "C major (hands separately, one octave)"
+          ],
+          "studies": [
+            "Simple five-finger exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic or digital piano (88 keys preferred, weighted action)",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome",
+            "Footstool (if required for posture)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor harmonic scales of Am, Em and Dm",
+          "Intervals above the tonic by number and quality (treble clef only)",
+          "Tonic triads in the keys for this grade",
+          "Semiquavers, quaver triplets and dotted notes",
+          "The anacrusis",
+          "The whole bar (semibreve) rest",
+          "Time signature of 6/8",
+          "Transposition into any other key for this grade",
+          "Terms and signs",
+          "Binary and ternary form",
+          "Identification of accented syllables in a text"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Allegro in B flat",
+            "composer": "J.C. Bach"
+          },
+          {
+            "title": "The Swing",
+            "composer": "C. Gurlitt"
+          },
+          {
+            "title": "The Echo",
+            "composer": "L. Streabbog"
+          },
+          {
+            "title": "Waltz",
+            "composer": "D. Shostakovich"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C, G, D, A, F major (hands separately, one octave)",
+            "A, E, D minor harmonic (hands separately, one octave)"
+          ],
+          "arpeggios": [
+            "C, G, D, F major (hands separately, one octave)",
+            "A minor (hands separately, one octave)"
+          ],
+          "studies": [
+            "Simple studies focusing on evenness and finger independence"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic or digital piano (88 keys, weighted action)",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales of E, Eb, Bb and Ab",
+          "Minor harmonic scales of Gm and Cm",
+          "Intervals above the tonic in all keys (treble and bass clefs)",
+          "Primary triads (tonic, dominant and subdominant)",
+          "Root position and first inversion triads",
+          "Perfect and plagal cadences",
+          "SATB vocal style and range",
+          "Time signatures of 2/2, 3/2, 3/8 and 9/8",
+          "Transposition into any key for this grade",
+          "Terms and signs",
+          "Sequences",
+          "Rondo form",
+          "Set a rhythm to a provided text",
+          "Compose a 4-bar melody in a major key based on a given rhythmic pattern"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonatina in C, Op. 36 No. 1, 1st movt.",
+            "composer": "M. Clementi"
+          },
+          {
+            "title": "The Storm",
+            "composer": "F. Burgm\u00fcller"
+          },
+          {
+            "title": "Arabesque",
+            "composer": "Burgm\u00fcller"
+          },
+          {
+            "title": "The Merry Farmer",
+            "composer": "R. Schumann"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major scales up to 3 sharps/flats (hands separately, two octaves)",
+            "All minor harmonic scales up to 2 sharps/flats (hands separately, two octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 2 sharps/flats (hands separately, two octaves)"
+          ],
+          "studies": [
+            "Studies focusing on legato and staccato touch"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic or digital piano (88 keys, weighted action)",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales of B, F#, Db and Gb",
+          "Harmonic minor scales of Bm, F#m, C#m and Bbm",
+          "Double flats and sharps",
+          "All diatonic intervals plus their qualities",
+          "Recognition of modulation to the dominant or relative key",
+          "Syncopation",
+          "Adding bar lines",
+          "Time signatures of 6/4 and 12/8",
+          "Chords II, ii, VI and vi in root position and first inversion",
+          "Imperfect and interrupted cadences",
+          "Writing cadences in SATB style",
+          "Harmonisation of a melody in SATB style",
+          "Set a rhythm to a given text couplet (8 bars)",
+          "Compose a melody to a given rhythm (8 bars)",
+          "Transposition into any key from the grade",
+          "Terms and signs",
+          "Ornaments",
+          "Baroque Suites",
+          "Orchestral String Instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonatina in G, Op. 36 No. 2, 1st movt.",
+            "composer": "M. Clementi"
+          },
+          {
+            "title": "Prelude in C",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Mazurka",
+            "composer": "F. Chopin"
+          },
+          {
+            "title": "Allegro",
+            "composer": "G. Telemann"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and harmonic minor scales up to 4 sharps/flats (hands together, two octaves)",
+            "Contrary motion: C, G, F major (hands together, one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 3 sharps/flats (hands together, two octaves)"
+          ],
+          "studies": [
+            "Studies focusing on crossing the thumb and hand coordination"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic or digital piano (88 keys, weighted action)",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "35 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major scales",
+          "All minor scales in harmonic and melodic forms",
+          "All key signatures",
+          "All intervals, and their inversions",
+          "Recognition of modulation to the subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic, the cadential 6/4",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody in SATB or keyboard style including modulation",
+          "Compose a melody to a 4-line stanza of poetry",
+          "Compose an instrumental melody based on a given opening (8 bars)",
+          "Minuet and Trio form, Scherzo, Air with Variations, Recitative and Aria",
+          "Knowledge of composers",
+          "Orchestral woodwind instruments (standard)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata in C, K.545, 1st movt.",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "Waltz in A minor",
+            "composer": "F. Chopin"
+          },
+          {
+            "title": "Song Without Words, Op. 19 No. 1",
+            "composer": "F. Mendelssohn"
+          },
+          {
+            "title": "Bagatelle, Op. 119 No. 9",
+            "composer": "L. van Beethoven"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, hands together, two octaves)",
+            "Contrary motion: C, G, D, F major (hands together, one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (hands together, two octaves)"
+          ],
+          "studies": [
+            "Studies focusing on voicing and dynamic control"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic or digital piano (88 keys, weighted action)",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii",
+          "Passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes",
+          "Suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Compose a melody to a 4-line stanza of poetry, with modulation",
+          "Compose a vocal melody after a given phrase, with modulation",
+          "Sonata, Symphony, Concerto, Overture",
+          "Knowledge of composers with reference to examples",
+          "Sonata form",
+          "Reference to piano sonata by Mozart or Beethoven",
+          "Set work: two movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata in G, Hob. XVI:8, 1st movt.",
+            "composer": "J. Haydn"
+          },
+          {
+            "title": "Nocturne in C# minor",
+            "composer": "F. Chopin"
+          },
+          {
+            "title": "Arabesque No. 1",
+            "composer": "C. Debussy"
+          },
+          {
+            "title": "Rondo alla Turca",
+            "composer": "W.A. Mozart"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, hands together, four octaves)",
+            "Contrary motion: all major scales (hands together, two octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (hands together, four octaves)",
+            "Dominant 7th arpeggios in keys up to 4 sharps/flats (hands together, two octaves)"
+          ],
+          "studies": [
+            "Studies focusing on double notes, octaves, and advanced articulation"
+          ]
+        },
+        "equipment": {
+          "instrument": "Acoustic grand piano (preferred) or high-quality digital piano (88 keys, weighted action)",
+          "accessories": [
+            "Adjustable bench",
+            "Metronome",
+            "Pedal extender (if required)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "45 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      }
+    },
+    "guitar": {
+      "preliminary": {
+        "theory_topics": [
+          "Treble clef notation up to two ledger lines",
+          "Open string and first position notes",
+          "Basic rhythms: semibreve, minim, crotchet, quaver",
+          "Simple time signatures: 2/4, 3/4, 4/4",
+          "Basic dynamics and articulation (p, f, mf, staccato, legato)",
+          "Simple musical terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Twinkle, Twinkle Little Star",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Ode to Joy",
+            "composer": "Beethoven"
+          },
+          {
+            "title": "Spanish Theme",
+            "composer": "AMEB Collection"
+          },
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Tune"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical or acoustic guitar (suitable size for candidate)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "All major and minor scales (harmonic and melodic forms)",
+          "All key signatures up to six sharps/flats",
+          "All intervals and their inversions",
+          "Modulation to subdominant, dominant, and relative keys",
+          "Chord vii\u00b0 in minor keys, cadential 6/4, dominant 7th chords",
+          "Unaccented and accented passing notes, suspensions",
+          "Harmonisation and analysis of advanced chord progressions",
+          "Knowledge of composers and stylistic periods relevant to guitar"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Prelude No. 1",
+            "composer": "Heitor Villa-Lobos"
+          },
+          {
+            "title": "Asturias (Leyenda)",
+            "composer": "Isaac Alb\u00e9niz"
+          },
+          {
+            "title": "Etude No. 6",
+            "composer": "Matteo Carcassi"
+          },
+          {
+            "title": "Cavatina",
+            "composer": "Stanley Myers"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves where possible)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves where possible)",
+            "Dominant 7th arpeggios"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (full size, nylon strings recommended)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Capo (if required by repertoire)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Sight Reading"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "All major and minor scales and key signatures",
+          "Chromatic and whole tone scales",
+          "Advanced intervals and their inversions",
+          "Modulation to distant keys",
+          "Chord extensions (9th, 11th, 13th), altered chords",
+          "Advanced harmonic analysis and chord progressions",
+          "Counterpoint basics and two-part writing",
+          "Stylistic features of major guitar repertoire"
+        ],
+        "performance_pieces": [
+          {
+            "title": "La Catedral: Preludio Saudade",
+            "composer": "Agust\u00edn Barrios Mangor\u00e9"
+          },
+          {
+            "title": "Recuerdos de la Alhambra",
+            "composer": "Francisco T\u00e1rrega"
+          },
+          {
+            "title": "Fandanguillo",
+            "composer": "Joaqu\u00edn Turina"
+          },
+          {
+            "title": "Etude No. 11",
+            "composer": "Heitor Villa-Lobos"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (three octaves where possible)",
+            "Chromatic scale (two octaves)"
+          ],
+          "arpeggios": [
+            "All major, minor, and dominant 7th arpeggios (two octaves)",
+            "Diminished 7th arpeggios"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert-quality classical guitar",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Capo (if required)",
+            "Spare strings"
+          ]
+        },
+        "exam_structure": {
+          "duration": "50 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Sight Reading",
+            "Discussion"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced harmonic and formal analysis of guitar repertoire",
+          "Counterpoint and voice leading in guitar music",
+          "Ornamentation and stylistic interpretation",
+          "Historical and contemporary performance practices",
+          "Transcription and arrangement for guitar",
+          "In-depth study of guitar composers and their works"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata, Op. 47, 1st Movement",
+            "composer": "Alberto Ginastera"
+          },
+          {
+            "title": "Chaconne (from BWV 1004)",
+            "composer": "J.S. Bach, arr. Segovia"
+          },
+          {
+            "title": "Invocaci\u00f3n y Danza",
+            "composer": "Joaqu\u00edn Rodrigo"
+          },
+          {
+            "title": "Koyunbaba, 1st Movement",
+            "composer": "Carlo Domeniconi"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, chromatic, whole tone, and modal scales (three octaves where possible)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, and extended arpeggios (three octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert classical guitar",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Capo (if required)",
+            "Spare strings",
+            "Nail care kit"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight Reading",
+            "Discussion of Repertoire and Interpretation"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Comprehensive analysis of advanced guitar works (form, harmony, texture)",
+          "Advanced counterpoint and fugue in guitar literature",
+          "Orchestration and transcription for guitar ensemble",
+          "Interpretative approaches to 20th and 21st-century guitar music",
+          "Research and presentation on guitar history and repertoire"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Nocturnal after John Dowland, Op. 70",
+            "composer": "Benjamin Britten"
+          },
+          {
+            "title": "Sonata, Op. 61",
+            "composer": "Joaqu\u00edn Turina"
+          },
+          {
+            "title": "El Decameron Negro",
+            "composer": "Leo Brouwer"
+          },
+          {
+            "title": "Suite Compostelana",
+            "composer": "Federico Mompou"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, modal, chromatic, and synthetic scales (three octaves)"
+          ],
+          "arpeggios": [
+            "All arpeggio types including extended and compound forms (three octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert classical guitar",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Capo (if required)",
+            "Spare strings",
+            "Nail care kit",
+            "Recording device (for self-assessment)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour 15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Sight Reading",
+            "Aural",
+            "Viva Voce (Discussion of Interpretation, History, and Analysis)"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original research and scholarship in guitar performance or pedagogy",
+          "Critical analysis and comparison of major works and composers",
+          "Advanced interpretative and stylistic issues in guitar music",
+          "Preparation and presentation of lecture-recitals",
+          "Contribution to the advancement of guitar repertoire and technique"
+        ],
+        "performance_pieces": [
+          {
+            "title": "A substantial original recital program (minimum 40 minutes) including at least one major work from each of the Baroque, Romantic, and Contemporary periods",
+            "composer": "Various"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All advanced scale forms and patterns as required by chosen repertoire"
+          ],
+          "arpeggios": [
+            "All advanced arpeggio forms as required by chosen repertoire"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert classical guitar of the highest quality",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Capo (if required)",
+            "Spare strings",
+            "Nail care kit",
+            "Recording device",
+            "Presentation materials (for lecture-recital)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour 30 minutes",
+          "sections": [
+            "Recital Performance",
+            "Technical Work (as required)",
+            "Lecture-Recital or Viva Voce",
+            "Discussion of Research/Interpretation"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble clef notation",
+          "Notes up to two ledger lines above and below the staff",
+          "Accidentals (sharps, flats, naturals)",
+          "Scales of C, G and F major",
+          "Key signatures for C, G, F major",
+          "Tones and semitones",
+          "Scale degrees (1st to 7th)",
+          "Simple intervals above the tonic (number only)",
+          "Tonic triad chords in root position",
+          "Note values: semibreve to quaver (including dotted minims)",
+          "Rest values: minim and crotchet",
+          "Time signatures: 2/4, 3/4, 4/4 and C",
+          "Basic musical terms (e.g. forte, piano, allegro, andante)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Ode to Joy",
+            "composer": "L. van Beethoven"
+          },
+          {
+            "title": "Spanish Dance",
+            "composer": "Traditional"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)"
+          ],
+          "studies": [
+            "Simple right-hand arpeggio study"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (3/4 or full size, nylon strings)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor harmonic scales: Am, Em, Dm",
+          "Intervals above the tonic (number and quality)",
+          "Tonic triads in keys for this grade",
+          "Semiquavers, quaver triplets, dotted notes",
+          "Anacrusis (upbeat)",
+          "Whole bar (semibreve) rest",
+          "Time signature: 6/8",
+          "Binary and ternary form",
+          "Basic terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Andantino",
+            "composer": "F. Carulli"
+          },
+          {
+            "title": "Greensleeves",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Waltz",
+            "composer": "F. Sor"
+          },
+          {
+            "title": "The Clown",
+            "composer": "J. Ferrer"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C, G, F, D, A major (one octave)",
+            "A, E, D minor harmonic (one octave)"
+          ],
+          "arpeggios": [
+            "C, G, D major (one octave)",
+            "A minor (one octave)"
+          ],
+          "studies": [
+            "Simple left-hand slur study",
+            "Right-hand arpeggio study"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (full size recommended, nylon strings)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Spare strings"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales: E, Eb, Bb, Ab",
+          "Minor harmonic scales: Gm, Cm",
+          "Intervals above the tonic in all keys (number and quality)",
+          "Primary triads: tonic, dominant, subdominant",
+          "Root position and first inversion triads",
+          "Perfect and plagal cadences",
+          "Time signatures: 2/2, 3/2, 3/8, 9/8",
+          "Rondo form",
+          "Sequences",
+          "Terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Minuet in G",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Andante",
+            "composer": "M. Giuliani"
+          },
+          {
+            "title": "Spanish Romance",
+            "composer": "Anonymous"
+          },
+          {
+            "title": "Allegretto",
+            "composer": "F. Carcassi"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C, G, F, D, A, E, Bb major (one octave)",
+            "A, E, D, G, C minor harmonic (one octave)"
+          ],
+          "arpeggios": [
+            "C, G, D, A, E major (one octave)",
+            "A, E, D minor (one octave)"
+          ],
+          "studies": [
+            "Slur study (ascending and descending)",
+            "Simple scale study"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (full size, nylon strings)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Spare strings",
+            "Nail file or buffer (optional)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales: B, F#, Db, Gb",
+          "Harmonic minor scales: Bm, F#m, C#m, Bbm",
+          "Double flats and sharps",
+          "All diatonic intervals (number and quality)",
+          "Recognition of modulation to dominant or relative key",
+          "Syncopation",
+          "Chords II, ii, VI, vi in root position and first inversion",
+          "Imperfect and interrupted cadences",
+          "Time signatures: 6/4, 12/8",
+          "Ornaments (trill, mordent, etc.)",
+          "Baroque suite forms",
+          "Terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Study in A",
+            "composer": "F. Sor"
+          },
+          {
+            "title": "El Testament d'Amelia",
+            "composer": "M. Llobet"
+          },
+          {
+            "title": "Vals",
+            "composer": "F. T\u00e1rrega"
+          },
+          {
+            "title": "Prelude No. 1",
+            "composer": "H. Villa-Lobos"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor (harmonic) scales up to 2 sharps/flats (one octave)",
+            "Chromatic scale (one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 2 sharps/flats (one octave)"
+          ],
+          "studies": [
+            "Right-hand arpeggio study (advanced)",
+            "Slur and scale study"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (full size, nylon strings, well set up)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Spare strings",
+            "Nail file or buffer"
+          ]
+        },
+        "exam_structure": {
+          "duration": "35 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major and minor scales (harmonic and melodic forms)",
+          "All key signatures",
+          "All intervals and their inversions",
+          "Recognition of modulation to subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic (cadential 6/4)",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody (keyboard/guitar style)",
+          "Minuet and Trio form, Scherzo, Air with Variations",
+          "Knowledge of composers (Classical and Romantic)",
+          "Orchestral woodwind instruments (standard)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Etude in B minor, Op. 35 No. 22",
+            "composer": "F. Sor"
+          },
+          {
+            "title": "L\u00e1grima",
+            "composer": "F. T\u00e1rrega"
+          },
+          {
+            "title": "Andaluza",
+            "composer": "E. Granados"
+          },
+          {
+            "title": "Vals Venezolano No. 2",
+            "composer": "A. Lauro"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor (harmonic and melodic) scales up to 3 sharps/flats (two octaves where possible)",
+            "Chromatic scale (two octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 3 sharps/flats (two octaves where possible)"
+          ],
+          "studies": [
+            "Advanced slur study",
+            "Scale and arpeggio study"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (full size, concert quality preferred)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Spare strings",
+            "Nail file or buffer",
+            "Capo (if required)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii and passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes and suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint (keyboard/guitar style)",
+          "Modulation to related keys",
+          "Compose a melody to a stanza of poetry (with modulation)",
+          "Sonata, Symphony, Concerto, Overture forms",
+          "Sonata form",
+          "Knowledge of composers with reference to examples"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Recuerdos de la Alhambra",
+            "composer": "F. T\u00e1rrega"
+          },
+          {
+            "title": "Prelude No. 5",
+            "composer": "H. Villa-Lobos"
+          },
+          {
+            "title": "Asturias (Leyenda)",
+            "composer": "I. Alb\u00e9niz"
+          },
+          {
+            "title": "El Colibri",
+            "composer": "J. Sagreras"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor (harmonic and melodic) scales up to 4 sharps/flats (two octaves)",
+            "Chromatic scale (two octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 4 sharps/flats (two octaves)"
+          ],
+          "studies": [
+            "Advanced right-hand arpeggio study",
+            "Scale and slur study"
+          ]
+        },
+        "equipment": {
+          "instrument": "Classical guitar (full size, concert quality, well maintained)",
+          "accessories": [
+            "Footstool or guitar support",
+            "Tuner",
+            "Music stand",
+            "Spare strings",
+            "Nail file or buffer",
+            "Capo (if required)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "45 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      }
+    },
+    "violin": {
+      "preliminary": {
+        "theory_topics": [
+          "Open strings and first position notes",
+          "Simple rhythms (crotchets, minims, quavers)",
+          "Treble clef reading",
+          "Basic time signatures (2/4, 3/4, 4/4)",
+          "Simple dynamics and articulation"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Twinkle, Twinkle, Little Star",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Song of the Wind",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "A major (1 octave)",
+            "D major (1 octave)"
+          ],
+          "arpeggios": [
+            "A major (1 octave)",
+            "D major (1 octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (sized appropriately for the candidate)",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "Chromatic, whole tone, and pentatonic scales",
+          "All major and minor keys (up to 5 sharps/flats)",
+          "Modulation to closely related keys",
+          "Seventh chords (dominant, diminished, major, minor)",
+          "Simple and compound time signatures",
+          "Ornamentation and advanced articulation",
+          "Musical forms: sonata, rondo, minuet and trio",
+          "Analysis of Romantic and early 20th-century works"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in G major, 1st movt.",
+            "composer": "F.J. Haydn"
+          },
+          {
+            "title": "Meditation from Tha\u00efs",
+            "composer": "J. Massenet"
+          },
+          {
+            "title": "Praeludium and Allegro",
+            "composer": "F. Kreisler"
+          },
+          {
+            "title": "Sonata in E minor, 1st movt.",
+            "composer": "G.F. Handel"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and melodic/harmonic minor scales (3 octaves)",
+            "Chromatic scale (2 octaves, starting on G)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (3 octaves)",
+            "Dominant 7th arpeggio (2 octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Full-size violin (well-maintained)",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Metronome",
+            "Tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Theory"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "All major and minor keys (up to 7 sharps/flats)",
+          "Advanced modulation (including to remote keys)",
+          "Extended chords (ninths, elevenths, thirteenths)",
+          "Counterpoint and fugue basics",
+          "Complex time signatures and polyrhythms",
+          "Analysis of Classical, Romantic, and Modern works",
+          "Orchestration basics for strings",
+          "Interpretation and stylistic awareness"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Violin Concerto in D major, Op. 35, 1st movt.",
+            "composer": "P.I. Tchaikovsky"
+          },
+          {
+            "title": "Sonata No. 1 in G minor, BWV 1001, Adagio & Fuga",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Nigun from Baal Shem",
+            "composer": "E. Bloch"
+          },
+          {
+            "title": "Zigeunerweisen, Op. 20",
+            "composer": "P. de Sarasate"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and melodic/harmonic minor scales (3 octaves, with varied bowings)",
+            "Chromatic scale (3 octaves, starting on any note)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (3 octaves, with varied bowings)",
+            "Dominant and diminished 7th arpeggios (2 octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional quality violin",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Mute"
+          ]
+        },
+        "exam_structure": {
+          "duration": "50 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Theory",
+            "Discussion of repertoire"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced harmony and chromaticism",
+          "Modulation to distant keys and enharmonic modulation",
+          "Counterpoint (two and three parts)",
+          "Analysis of concerto and sonata forms",
+          "Orchestration for strings and small ensembles",
+          "Interpretation of 20th and 21st-century violin repertoire",
+          "Historical performance practice"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Violin Concerto in E minor, Op. 64, 1st movt.",
+            "composer": "F. Mendelssohn"
+          },
+          {
+            "title": "Sonata for Violin and Piano No. 1 in A major, Op. 13, 1st movt.",
+            "composer": "G. Faur\u00e9"
+          },
+          {
+            "title": "Caprice No. 24",
+            "composer": "N. Paganini"
+          },
+          {
+            "title": "Suite Italienne",
+            "composer": "I. Stravinsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (3 octaves, all bowings and rhythms)",
+            "Double stops (thirds, sixths, octaves, tenths, fingered octaves)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, and diminished 7th arpeggios (3 octaves)",
+            "Broken thirds (2 octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional quality violin (well set-up)",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Mute",
+            "Spare strings"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Discussion of repertoire and style"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Advanced counterpoint (three and four parts)",
+          "Complex harmony and extended tonality",
+          "Analysis of 20th and 21st-century violin works",
+          "Orchestration for full orchestra",
+          "Interpretation and stylistic comparison of major violin repertoire",
+          "Historical and contemporary performance practice"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Violin Concerto in D major, Op. 77, 1st movt.",
+            "composer": "J. Brahms"
+          },
+          {
+            "title": "Sonata for Solo Violin, Op. 115",
+            "composer": "S. Prokofiev"
+          },
+          {
+            "title": "Tzigane",
+            "composer": "M. Ravel"
+          },
+          {
+            "title": "Partita No. 2 in D minor, BWV 1004, Chaconne",
+            "composer": "J.S. Bach"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (3 octaves, all bowings, rhythms, and double stops)",
+            "Scales in thirds, sixths, octaves, and fingered octaves"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th arpeggios (3 octaves, all bowings)",
+            "Broken chords and arpeggios in double stops"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert quality violin",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Mute",
+            "Spare strings",
+            "Fine tuners"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour 15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Discussion of advanced repertoire and interpretation"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original research and analysis of violin repertoire",
+          "Advanced compositional techniques and improvisation",
+          "Comparative analysis of historical and contemporary violin performance",
+          "Orchestration for large ensembles and experimental settings",
+          "Critical review and scholarly discussion of violin literature"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Violin Concerto, Op. 47",
+            "composer": "J. Sibelius"
+          },
+          {
+            "title": "Violin Concerto No. 2",
+            "composer": "B. Bart\u00f3k"
+          },
+          {
+            "title": "Solo Sonata, Op. 27 No. 3 'Ballade'",
+            "composer": "E. Ysa\u00ffe"
+          },
+          {
+            "title": "Original composition or approved contemporary work",
+            "composer": "Candidate's choice"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (3 octaves, all advanced bowings and double stops)",
+            "Scales and arpeggios in all intervals (thirds, sixths, octaves, tenths)"
+          ],
+          "arpeggios": [
+            "All advanced arpeggios (3 octaves, all bowings and double stops)",
+            "Complex broken chords and advanced technical studies"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert or master quality violin",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Mute",
+            "Spare strings",
+            "Fine tuners",
+            "Backup bow"
+          ]
+        },
+        "exam_structure": {
+          "duration": "1 hour 30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Presentation and discussion of research topic",
+            "Viva voce on repertoire and performance practice"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble clef and basic note reading",
+          "Pitches with up to two ledger lines",
+          "Accidentals (sharps, flats, naturals)",
+          "Scales of C, G and D major",
+          "Key signatures for C, G and D major",
+          "Tones and semitones",
+          "Simple time signatures (2/4, 3/4, 4/4)",
+          "Basic note values (semibreve to quaver)",
+          "Simple musical terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Song of the Wind",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Minuet 1",
+            "composer": "J.S. Bach"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (1 octave)",
+            "G major (1 octave)",
+            "D major (1 octave)"
+          ],
+          "arpeggios": [
+            "C major (1 octave)",
+            "G major (1 octave)",
+            "D major (1 octave)"
+          ],
+          "studies": [
+            "Simple bowing and open string exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (sized to student), properly set up",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor scales: A minor (natural), E minor (natural)",
+          "Intervals above the tonic (number only)",
+          "Tonic triads in keys for this grade",
+          "Semiquavers and dotted notes",
+          "Anacrusis",
+          "Time signature of 6/8",
+          "Terms and signs (including dynamics and articulation)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Minuet 2",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Andantino",
+            "composer": "F. Wohlfahrt"
+          },
+          {
+            "title": "Go Tell Aunt Rhody",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Long, Long Ago",
+            "composer": "T.H. Bayly"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "G major (2 octaves)",
+            "D major (1 octave)",
+            "A major (1 octave)",
+            "A minor (1 octave)",
+            "E minor (1 octave)"
+          ],
+          "arpeggios": [
+            "G major (2 octaves)",
+            "D major (1 octave)",
+            "A major (1 octave)"
+          ],
+          "studies": [
+            "Simple first position studies (e.g. Wohlfahrt Op. 45, No. 1)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (sized to student), properly set up",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Spare strings"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales of A, E, Bb and Eb",
+          "Minor harmonic scales of D minor, G minor",
+          "Intervals above the tonic (number and quality)",
+          "Primary triads (I, IV, V) in keys for this grade",
+          "Root position and first inversion triads",
+          "Time signatures of 2/2, 3/8, 9/8",
+          "Binary and ternary form",
+          "Terms and signs (including tempo markings)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Minuet in G",
+            "composer": "L. Boccherini"
+          },
+          {
+            "title": "Study in D",
+            "composer": "F. Wohlfahrt"
+          },
+          {
+            "title": "Sonatina in G, 1st movt",
+            "composer": "T. Latour"
+          },
+          {
+            "title": "Hunter's Chorus",
+            "composer": "C.M. von Weber"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "D major (2 octaves)",
+            "A major (2 octaves)",
+            "E major (1 octave)",
+            "Bb major (1 octave)",
+            "D minor (1 octave)",
+            "G minor (1 octave)"
+          ],
+          "arpeggios": [
+            "D major (2 octaves)",
+            "A major (2 octaves)",
+            "E major (1 octave)",
+            "Bb major (1 octave)"
+          ],
+          "studies": [
+            "First position studies (e.g. Wohlfahrt Op. 45, No. 5 or 6)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (sized to student), properly set up",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Spare strings",
+            "Tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales of F, B, Eb, Ab",
+          "Harmonic minor scales of E minor, B minor, C minor",
+          "Double sharps and flats",
+          "All diatonic intervals and their qualities",
+          "Recognition of modulation to dominant or relative key",
+          "Chords II, IV, V, VI in root and first inversion",
+          "Time signatures of 6/4 and 12/8",
+          "Ornaments (trill, mordent, grace note)",
+          "Terms and signs (including articulation and expression marks)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonatina in D, 1st movt",
+            "composer": "G.F. Handel"
+          },
+          {
+            "title": "Sicilienne",
+            "composer": "M.-A. von Paradis"
+          },
+          {
+            "title": "Study in G",
+            "composer": "H. Kayser"
+          },
+          {
+            "title": "Gavotte",
+            "composer": "F.J. Gossec"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "G major (3 octaves)",
+            "D major (2 octaves)",
+            "A major (2 octaves)",
+            "F major (2 octaves)",
+            "E minor (2 octaves)",
+            "B minor (1 octave)",
+            "C minor (1 octave)"
+          ],
+          "arpeggios": [
+            "G major (3 octaves)",
+            "D major (2 octaves)",
+            "A major (2 octaves)",
+            "F major (2 octaves)"
+          ],
+          "studies": [
+            "Second and third position studies (e.g. Kayser Op. 20, No. 17)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (full size or appropriate), properly set up",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Spare strings",
+            "Tuner",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major and minor scales (harmonic and melodic forms)",
+          "All key signatures up to 4 sharps/flats",
+          "All intervals and their inversions",
+          "Recognition of modulation to subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic (cadential 6/4)",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody in keyboard style",
+          "Terms and signs (including advanced tempo and expression marks)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in A minor, 1st movt",
+            "composer": "A. Vivaldi"
+          },
+          {
+            "title": "Meditation from Tha\u00efs",
+            "composer": "J. Massenet"
+          },
+          {
+            "title": "Study in F",
+            "composer": "H. Kayser"
+          },
+          {
+            "title": "Rondo",
+            "composer": "W.A. Mozart"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (2 or 3 octaves, as appropriate)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (2 or 3 octaves, as appropriate)"
+          ],
+          "studies": [
+            "Third and fifth position studies (e.g. Kayser Op. 20, No. 29)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (full size), professionally set up",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Spare strings",
+            "Tuner",
+            "Metronome",
+            "Mute"
+          ]
+        },
+        "exam_structure": {
+          "duration": "35 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii and passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes and suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Modulation to closely related keys",
+          "Sonata and concerto forms",
+          "Terms and signs (including Italian, German, and French terminology)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in G major, 1st movt",
+            "composer": "F. Seitz"
+          },
+          {
+            "title": "Sarabande",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Study in D",
+            "composer": "R. Kreutzer"
+          },
+          {
+            "title": "Allegro",
+            "composer": "J.H. Fiocco"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (3 octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (3 octaves)"
+          ],
+          "studies": [
+            "Advanced position and bowing studies (e.g. Kreutzer Etude No. 2)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Violin (full size), professionally set up",
+          "accessories": [
+            "Bow",
+            "Rosin",
+            "Shoulder rest",
+            "Music stand",
+            "Spare strings",
+            "Tuner",
+            "Metronome",
+            "Mute",
+            "Cleaning cloth"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      }
+    },
+    "flute": {
+      "preliminary": {
+        "theory_topics": [
+          "Treble clef and basic note reading",
+          "Simple rhythms (crotchets, minims, quavers, semibreves)",
+          "Time signatures: 2/4, 3/4, 4/4",
+          "Basic dynamics and articulation",
+          "Major scales: C, G, F",
+          "Simple musical terms (e.g., forte, piano, staccato, legato)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Mary Had a Little Lamb",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Minuet in C",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "The Clown",
+            "composer": "D. Kabalevsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert flute in C, properly serviced",
+          "accessories": [
+            "Music stand",
+            "Cleaning rod and cloth"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "All major and minor scales (harmonic and melodic forms)",
+          "All key signatures",
+          "All intervals and their inversions",
+          "Recognition of modulation to the subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Cadential 6/4 chords",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation in SATB or keyboard style including modulation",
+          "Instrumental melody composition",
+          "Knowledge of standard orchestral woodwind instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata in E minor, BWV 1034, 1st movt",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Syrinx",
+            "composer": "Claude Debussy"
+          },
+          {
+            "title": "Allegro Scherzando",
+            "composer": "Philippe Gaubert"
+          },
+          {
+            "title": "Hungarian Pastorale Fantasie",
+            "composer": "Franz Doppler"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves where possible)",
+            "Chromatic scale (full range)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves where possible)",
+            "Dominant 7th arpeggios in all keys"
+          ]
+        },
+        "equipment": {
+          "instrument": "Concert flute in C, well-maintained",
+          "accessories": [
+            "Music stand",
+            "Cleaning rod and cloth",
+            "Metronome",
+            "Tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "45 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Sight-reading"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "Chord iii and passing 6/4 chords",
+          "Dominant 7th chords and their resolutions",
+          "Accented passing notes and suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint",
+          "Advanced modulation and chromaticism",
+          "Sonata, Symphony, Concerto, Overture forms",
+          "Set work analysis (e.g., movements from a symphony)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in D major, Op. 283, 1st movt",
+            "composer": "Carl Reinecke"
+          },
+          {
+            "title": "Fantaisie",
+            "composer": "Georges H\u00fce"
+          },
+          {
+            "title": "Ballade",
+            "composer": "Frank Martin"
+          },
+          {
+            "title": "Sonata for Flute and Piano",
+            "composer": "Francis Poulenc"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, three octaves where possible)",
+            "Chromatic scale (full range, three octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (three octaves where possible)",
+            "Dominant 7th and diminished 7th arpeggios (two octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert flute in C, recently serviced",
+          "accessories": [
+            "Music stand",
+            "Cleaning rod and cloth",
+            "Metronome",
+            "Tuner",
+            "Pencil and eraser"
+          ]
+        },
+        "exam_structure": {
+          "duration": "60 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Sight-reading",
+            "Discussion"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced harmony and counterpoint",
+          "Complex modulations and chromaticism",
+          "Analysis of sonata, concerto, and symphonic forms",
+          "Orchestration techniques for woodwinds",
+          "Historical performance practice",
+          "Set work analysis (e.g., major flute concerto or sonata)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto for Flute and Orchestra in G major, K. 313",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "Sonata for Flute and Piano",
+            "composer": "Sergei Prokofiev"
+          },
+          {
+            "title": "Image",
+            "composer": "Eug\u00e8ne Bozza"
+          },
+          {
+            "title": "Suite de Trois Morceaux",
+            "composer": "Benjamin Godard"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (full range, three octaves)",
+            "Whole tone and chromatic scales (full range)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th arpeggios (full range)",
+            "Extended technical exercises (e.g., scales in thirds, fourths)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert flute in C, with B footjoint preferred",
+          "accessories": [
+            "Music stand",
+            "Cleaning rod and cloth",
+            "Metronome",
+            "Tuner",
+            "Pencil and eraser"
+          ]
+        },
+        "exam_structure": {
+          "duration": "75 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Discussion",
+            "Repertoire Knowledge"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Advanced counterpoint and fugue",
+          "Orchestration for mixed ensembles",
+          "In-depth analysis of 20th and 21st-century flute repertoire",
+          "Interpretative and stylistic issues in flute performance",
+          "Extended techniques and contemporary notation",
+          "Research and presentation on flute literature"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Density 21.5",
+            "composer": "Edgard Var\u00e8se"
+          },
+          {
+            "title": "Sonata for Flute and Piano",
+            "composer": "Lowell Liebermann"
+          },
+          {
+            "title": "Concerto for Flute",
+            "composer": "Jacques Ibert"
+          },
+          {
+            "title": "Sequenza I",
+            "composer": "Luciano Berio"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, chromatic, whole tone, and modal scales (full range)",
+            "Scales in thirds, sixths, octaves"
+          ],
+          "arpeggios": [
+            "All arpeggios (major, minor, dominant 7th, diminished 7th, augmented) full range",
+            "Advanced technical studies (e.g., Taffanel & Gaubert exercises)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert flute in C, B footjoint required, with open holes",
+          "accessories": [
+            "Music stand",
+            "Cleaning rod and cloth",
+            "Metronome",
+            "Tuner",
+            "Pencil and eraser",
+            "Score and part copies"
+          ]
+        },
+        "exam_structure": {
+          "duration": "90 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight-reading",
+            "Discussion",
+            "Research Presentation"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original research in flute performance or pedagogy",
+          "Critical analysis of major flute works and composers",
+          "Advanced orchestration and arrangement for flute",
+          "Historical and contemporary performance practices",
+          "Preparation and delivery of lecture-recitals"
+        ],
+        "performance_pieces": [
+          {
+            "title": "A substantial solo recital program (minimum 45 minutes) including at least one Australian work",
+            "composer": "Various"
+          },
+          {
+            "title": "A major concerto or extended work for flute and orchestra",
+            "composer": "Candidate's choice"
+          },
+          {
+            "title": "A contemporary solo work demonstrating extended techniques",
+            "composer": "Candidate's choice"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All scales and modes (full range, at advanced tempi)",
+            "Scales in varied articulations and dynamics"
+          ],
+          "arpeggios": [
+            "All arpeggios and broken chords (full range, advanced tempi)",
+            "Custom technical exercises relevant to recital repertoire"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional concert flute in C, B footjoint, open holes, with auxiliary instruments as required (e.g., piccolo, alto flute)",
+          "accessories": [
+            "Music stand",
+            "Cleaning rod and cloth",
+            "Metronome",
+            "Tuner",
+            "Pencil and eraser",
+            "All required scores and parts"
+          ]
+        },
+        "exam_structure": {
+          "duration": "120 minutes",
+          "sections": [
+            "Recital Performance",
+            "Technical Demonstration",
+            "Lecture-Recital/Research Presentation",
+            "Discussion",
+            "Viva Voce"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble clef",
+          "Pitches up to two ledger lines above and below the staff",
+          "Accidentals (sharps, flats, naturals)",
+          "Scales of C, G and F major",
+          "Key signatures (no sharps/flats, 1 sharp, 1 flat)",
+          "Tones and semitones",
+          "Scale degrees",
+          "Simple intervals above the tonic (number only)",
+          "Tonic triad chords in root position",
+          "Note values: semibreve to quaver (including dotted minim)",
+          "Rest values: minim and crotchet",
+          "Time signatures: 2/4, 3/4, 4/4 and C",
+          "Transposition within the keys of this grade",
+          "Basic musical terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Au Clair de la Lune",
+            "composer": "French Folk Song"
+          },
+          {
+            "title": "Mary Had a Little Lamb",
+            "composer": "Traditional"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "studies": [
+            "Simple study in C major"
+          ]
+        },
+        "equipment": {
+          "instrument": "C Flute (student model, in good playing condition)",
+          "accessories": [
+            "Cleaning rod",
+            "Cleaning cloth",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor harmonic scales: A minor, E minor, D minor",
+          "Intervals above the tonic by number and quality",
+          "Tonic triads in relevant keys",
+          "Semiquavers, quaver triplets, dotted notes",
+          "Anacrusis (upbeat)",
+          "Semibreve rest (whole bar rest)",
+          "Time signature: 6/8",
+          "Transposition within grade keys",
+          "Musical terms and signs",
+          "Binary and ternary form"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Minuet",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "The Clown",
+            "composer": "Dmitri Kabalevsky"
+          },
+          {
+            "title": "Song of the Lark",
+            "composer": "Tchaikovsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)",
+            "D major (one octave)",
+            "A minor harmonic (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)",
+            "D major (one octave)",
+            "A minor (one octave)"
+          ],
+          "studies": [
+            "Study in G major or D major"
+          ]
+        },
+        "equipment": {
+          "instrument": "C Flute (student or intermediate model)",
+          "accessories": [
+            "Cleaning rod",
+            "Cleaning cloth",
+            "Music stand",
+            "Metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales: E, Eb, Bb, Ab",
+          "Minor harmonic scales: G minor, C minor",
+          "Intervals above the tonic in all keys (number and quality)",
+          "Primary triads: tonic, dominant, subdominant",
+          "Root position and first inversion triads",
+          "Perfect and plagal cadences",
+          "SATB vocal style basics",
+          "Time signatures: 2/2, 3/2, 3/8, 9/8",
+          "Transposition within grade keys",
+          "Musical terms and signs",
+          "Sequences",
+          "Rondo form"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Andante in C",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "Gavotte",
+            "composer": "G.F. Handel"
+          },
+          {
+            "title": "Allegretto",
+            "composer": "Benjamin Godard"
+          },
+          {
+            "title": "The Little Shepherd",
+            "composer": "Claude Debussy"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C, G, D, F, Bb major (two octaves where possible)",
+            "A, D, G minor harmonic (one octave)",
+            "Chromatic scale starting on C (one octave)"
+          ],
+          "arpeggios": [
+            "C, G, D, F, Bb major (one octave)",
+            "A, D, G minor (one octave)"
+          ],
+          "studies": [
+            "Study in D minor or Bb major"
+          ]
+        },
+        "equipment": {
+          "instrument": "C Flute (intermediate model recommended)",
+          "accessories": [
+            "Cleaning rod",
+            "Cleaning cloth",
+            "Music stand",
+            "Metronome",
+            "Tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales: B, F#, Db, Gb",
+          "Harmonic minor scales: B minor, F# minor, C# minor, Bb minor",
+          "Double flats and sharps",
+          "All diatonic intervals and their qualities",
+          "Recognition of modulation to dominant or relative key",
+          "Syncopation",
+          "Adding bar lines",
+          "Time signatures: 6/4, 12/8",
+          "Chords II, ii, VI, vi (root and first inversion)",
+          "Imperfect and interrupted cadences",
+          "Writing cadences in SATB style",
+          "Harmonisation of a melody (basic)",
+          "Musical terms, signs, and ornaments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sicilienne",
+            "composer": "Maria Theresia von Paradis"
+          },
+          {
+            "title": "Allegro from Sonata in F",
+            "composer": "G.F. Handel"
+          },
+          {
+            "title": "Menuet",
+            "composer": "L. van Beethoven"
+          },
+          {
+            "title": "Entr'acte",
+            "composer": "Jacques Ibert"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major scales up to 2 sharps and 2 flats (two octaves where possible)",
+            "All minor harmonic scales up to 2 sharps and 2 flats (one octave)",
+            "Chromatic scale starting on D (one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 2 sharps and 2 flats (one octave)"
+          ],
+          "studies": [
+            "Study in F# minor or Bb minor"
+          ]
+        },
+        "equipment": {
+          "instrument": "C Flute (intermediate or advanced student model)",
+          "accessories": [
+            "Cleaning rod",
+            "Cleaning cloth",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Pencil"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major scales",
+          "All minor scales (harmonic and melodic)",
+          "All key signatures",
+          "All intervals and their inversions",
+          "Recognition of modulation to subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic (cadential 6/4)",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody in SATB or keyboard style",
+          "Musical forms: Minuet and Trio, Scherzo, Air with Variations, Recitative and Aria",
+          "Orchestral woodwind instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Allegro from Sonata in E minor",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Syrinx",
+            "composer": "Claude Debussy"
+          },
+          {
+            "title": "Badinerie",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Pan and the Shepherds",
+            "composer": "Jules Mouquet"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves where possible)",
+            "Chromatic scales starting on any note (two octaves)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves where possible)"
+          ],
+          "studies": [
+            "Advanced study in a contrasting key"
+          ]
+        },
+        "equipment": {
+          "instrument": "C Flute (advanced student or professional model recommended)",
+          "accessories": [
+            "Cleaning rod",
+            "Cleaning cloth",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Pencil",
+            "Spare cleaning cloth"
+          ]
+        },
+        "exam_structure": {
+          "duration": "35 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii",
+          "Passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes",
+          "Suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint",
+          "Melody composition with modulation",
+          "Sonata, Symphony, Concerto, Overture",
+          "Sonata form",
+          "Reference to piano sonata by Mozart or Beethoven",
+          "Set work: two movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concertino, Op. 107",
+            "composer": "C\u00e9cile Chaminade"
+          },
+          {
+            "title": "Allegretto from Sonata in D, Op. 94",
+            "composer": "S. Prokofiev"
+          },
+          {
+            "title": "Fantaisie",
+            "composer": "Georges H\u00fce"
+          },
+          {
+            "title": "Nocturne et Allegro Scherzando",
+            "composer": "Philippe Gaubert"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves)",
+            "Chromatic scales starting on any note (two octaves)",
+            "Whole tone and diminished scales (one octave)"
+          ],
+          "arpeggios": [
+            "All major, minor, and dominant 7th arpeggios (two octaves where possible)"
+          ],
+          "studies": [
+            "Virtuosic study in a contrasting key"
+          ]
+        },
+        "equipment": {
+          "instrument": "C Flute (advanced student or professional model)",
+          "accessories": [
+            "Cleaning rod",
+            "Cleaning cloth",
+            "Music stand",
+            "Metronome",
+            "Tuner",
+            "Pencil",
+            "Spare cleaning cloth",
+            "Sheet music for all repertoire"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "General Knowledge"
+          ]
+        }
+      }
+    },
+    "clarinet": {
+      "preliminary": {
+        "theory_topics": [
+          "Treble clef notation",
+          "Pitches up to two ledger lines",
+          "Accidentals",
+          "Scales of C, G and F major",
+          "Key signatures",
+          "Tones and semitones",
+          "Basic note values (semibreve to quaver)",
+          "Rest values (minim, crotchet)",
+          "Time signatures: 2/4, 3/4, 4/4, C",
+          "Basic musical terms"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Song"
+          },
+          {
+            "title": "Minuet",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "The Clown",
+            "composer": "Dmitri Kabalevsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in good playing condition",
+          "accessories": [
+            "1-2 working reeds (strength 1.5\u20132)",
+            "cork grease",
+            "cleaning swab",
+            "music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Theory (oral)",
+            "Aural"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "Chord iii and passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes and suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint",
+          "Melody composition with modulation",
+          "Sonata, Symphony, Concerto, Overture forms",
+          "Knowledge of composers and set works"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonata for Clarinet and Piano, 1st movt",
+            "composer": "Francis Poulenc"
+          },
+          {
+            "title": "Concerto No. 1 in F minor, Op. 73, 1st movt",
+            "composer": "Carl Maria von Weber"
+          },
+          {
+            "title": "Premi\u00e8re Rhapsodie",
+            "composer": "Claude Debussy"
+          },
+          {
+            "title": "Three Pieces for Clarinet Solo, No. 1",
+            "composer": "Igor Stravinsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves)",
+            "Chromatic scale (full range)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves)",
+            "Dominant 7th arpeggios in keys up to 4 sharps/flats"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in excellent condition",
+          "accessories": [
+            "3-4 professional reeds (strength 2.5\u20133.5)",
+            "cork grease",
+            "cleaning swab",
+            "music stand",
+            "metronome"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical work",
+            "Aural",
+            "Theory (written/oral)",
+            "Sight-reading"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "Advanced chromatic and diatonic harmony",
+          "Modulation to remote keys",
+          "Neapolitan and augmented 6th chords",
+          "Advanced counterpoint",
+          "Complex melody and vocal composition",
+          "Analysis of large-scale forms (sonata, concerto, symphony)",
+          "Set work analysis"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Clarinet Concerto in A major, K. 622, 1st movt",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "Fantasiest\u00fccke, Op. 73, No. 1",
+            "composer": "Robert Schumann"
+          },
+          {
+            "title": "Solo de Concours",
+            "composer": "Andr\u00e9 Messager"
+          },
+          {
+            "title": "Five Bagatelles, No. 3",
+            "composer": "Gerald Finzi"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic, melodic, and chromatic, full range)",
+            "Whole-tone and diminished scales"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (full range)",
+            "Dominant and diminished 7th arpeggios in all keys"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in professional condition",
+          "accessories": [
+            "4-5 professional reeds (strength 3\u20133.5)",
+            "cork grease",
+            "cleaning swab",
+            "music stand",
+            "metronome",
+            "tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "50 minutes",
+          "sections": [
+            "Performance",
+            "Technical work",
+            "Aural",
+            "Theory (written/oral)",
+            "Sight-reading",
+            "General knowledge"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced harmonic analysis (chromatic, enharmonic, extended chords)",
+          "Counterpoint (two and three parts)",
+          "Advanced modulation and key relationships",
+          "Analysis of sonata, concerto, symphony, and chamber works",
+          "Orchestration for woodwinds",
+          "Set works from the standard clarinet repertoire"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Clarinet Concerto, 1st movt",
+            "composer": "Aaron Copland"
+          },
+          {
+            "title": "Premi\u00e8re Rhapsodie",
+            "composer": "Claude Debussy"
+          },
+          {
+            "title": "Sonata for Clarinet and Piano, Op. 167",
+            "composer": "Camille Saint-Sa\u00ebns"
+          },
+          {
+            "title": "Three Pieces for Clarinet Solo, complete",
+            "composer": "Igor Stravinsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, chromatic, whole-tone, and diminished scales (full range, varied articulations)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, and augmented arpeggios (full range)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional B\u266d clarinet (A clarinet if required by repertoire)",
+          "accessories": [
+            "5+ professional reeds (strength 3\u20134)",
+            "cork grease",
+            "cleaning swab",
+            "music stand",
+            "metronome",
+            "tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "60 minutes",
+          "sections": [
+            "Performance (recital)",
+            "Technical work",
+            "Sight-reading",
+            "Aural",
+            "General knowledge",
+            "Discussion of repertoire"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic harmony and 20th-century techniques",
+          "Complex counterpoint (three and four parts)",
+          "Orchestration and arranging for clarinet and ensemble",
+          "Detailed analysis of contemporary clarinet repertoire",
+          "Historical performance practice",
+          "Extended techniques and notation"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Time Pieces for Clarinet and Piano, Book II, No. 4",
+            "composer": "Robert Muczynski"
+          },
+          {
+            "title": "Clarinet Concerto, Op. 57",
+            "composer": "Carl Nielsen"
+          },
+          {
+            "title": "Sonata for Clarinet and Piano",
+            "composer": "Leonard Bernstein"
+          },
+          {
+            "title": "Dialogue de l\u2019ombre double",
+            "composer": "Pierre Boulez"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, chromatic, whole-tone, diminished, and modal scales (full range, all articulations)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, augmented, and extended arpeggios (full range)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional B\u266d and A clarinets (if required)",
+          "accessories": [
+            "6+ professional reeds (strength 3.5\u20134)",
+            "cork grease",
+            "cleaning swab",
+            "music stand",
+            "metronome",
+            "tuner"
+          ]
+        },
+        "exam_structure": {
+          "duration": "75 minutes",
+          "sections": [
+            "Performance (recital)",
+            "Technical work",
+            "Sight-reading",
+            "Aural",
+            "General knowledge",
+            "Discussion of repertoire and style"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original research in clarinet repertoire or pedagogy",
+          "Advanced analysis of contemporary and historical works",
+          "Orchestration and composition for clarinet in diverse ensembles",
+          "Extended performance techniques",
+          "Interpretative and stylistic issues in major clarinet works"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Commissioned work or original composition",
+            "composer": "Contemporary/Australian composer"
+          },
+          {
+            "title": "Clarinet Quintet in A major, K. 581",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "Domaines for Clarinet Solo",
+            "composer": "Pierre Boulez"
+          },
+          {
+            "title": "Any major concerto or recital work of candidate\u2019s choice",
+            "composer": "Open"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, chromatic, whole-tone, diminished, modal, and microtonal scales (full range, all articulations and dynamics)"
+          ],
+          "arpeggios": [
+            "All arpeggios including extended and contemporary forms (full range)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Professional B\u266d and A clarinets (bass clarinet if required)",
+          "accessories": [
+            "7+ professional reeds (strength 3.5\u20134.5)",
+            "cork grease",
+            "cleaning swab",
+            "music stand",
+            "metronome",
+            "tuner",
+            "score and part preparation materials"
+          ]
+        },
+        "exam_structure": {
+          "duration": "90 minutes",
+          "sections": [
+            "Performance (major recital)",
+            "Technical work",
+            "Sight-reading",
+            "Aural",
+            "Viva voce (discussion of research, repertoire, and interpretation)",
+            "Presentation of research or original work"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble and bass clefs",
+          "Pitches with up to two ledger lines",
+          "Accidentals",
+          "Scales of C, G and F major",
+          "Key signatures",
+          "Tones and semitones",
+          "Scale degrees",
+          "Diatonic intervals above the tonic (treble clef only, number only)",
+          "Tonic triad chords in root position (treble clef only)",
+          "Note values from semibreve to quaver (including dotted minims)",
+          "Rest values of minim and crotchet",
+          "Time signatures of 2/4, 3/4, 4/4 and C",
+          "Transposition into any other key of this grade",
+          "Basic musical terms"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Folk Tune"
+          },
+          {
+            "title": "Minuet",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "Song of the Clarinet",
+            "composer": "James Rae"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (1 octave)",
+            "G major (1 octave)",
+            "F major (1 octave)"
+          ],
+          "arpeggios": [
+            "C major (1 octave)",
+            "G major (1 octave)",
+            "F major (1 octave)"
+          ],
+          "studies": [
+            "Simple articulation and long tone exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in good playing condition",
+          "accessories": [
+            "1.5\u20132 strength reed",
+            "Cork grease",
+            "Cleaning swab",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance (3 pieces)",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor harmonic scales of Am, Em and Dm",
+          "Intervals above the tonic by number and quality (treble clef only)",
+          "Tonic triads in the keys for this grade",
+          "Semiquavers, quaver triplets and dotted notes",
+          "The anacrusis",
+          "The whole bar (semibreve) rest",
+          "Time signature of 6/8",
+          "Transposition into any other key for this grade",
+          "Terms and signs",
+          "Binary and ternary form",
+          "Identification of accented syllables in a text"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Andante",
+            "composer": "Gurlitt, arr. John Davies"
+          },
+          {
+            "title": "The Juggler",
+            "composer": "James Rae"
+          },
+          {
+            "title": "Allegretto",
+            "composer": "L. van Beethoven"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (1 octave)",
+            "G major (1 octave)",
+            "F major (1 octave)",
+            "D major (1 octave)",
+            "A major (1 octave)",
+            "A minor (harmonic, 1 octave)",
+            "E minor (harmonic, 1 octave)",
+            "D minor (harmonic, 1 octave)"
+          ],
+          "arpeggios": [
+            "C major (1 octave)",
+            "G major (1 octave)",
+            "F major (1 octave)",
+            "D major (1 octave)",
+            "A major (1 octave)",
+            "A minor (1 octave)",
+            "E minor (1 octave)",
+            "D minor (1 octave)"
+          ],
+          "studies": [
+            "Simple slurred and tongued articulation studies"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in good playing condition",
+          "accessories": [
+            "2 strength reed",
+            "Cork grease",
+            "Cleaning swab",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance (3 pieces)",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales of E, Eb, Bb and Ab",
+          "Minor harmonic scales of Gm and Cm",
+          "Intervals above the tonic in all keys (treble and bass clefs)",
+          "Primary triads (tonic, dominant and subdominant)",
+          "Root position and first inversion triads",
+          "Perfect and plagal cadences",
+          "SATB vocal style and range",
+          "Time signatures of 2/2, 3/2, 3/8 and 9/8",
+          "Transposition into any key for this grade",
+          "Terms and signs",
+          "Sequences",
+          "Rondo form",
+          "Set a rhythm to a provided text",
+          "Compose a 4-bar melody in a major key based on a given rhythmic pattern"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Allegro",
+            "composer": "J. Hook"
+          },
+          {
+            "title": "The Acrobat",
+            "composer": "James Rae"
+          },
+          {
+            "title": "Menuet",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "The Old Castle",
+            "composer": "Mussorgsky, arr. John Davies"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All previous major and minor scales (1 octave)",
+            "E major (1 octave)",
+            "E\u266d major (1 octave)",
+            "B\u266d major (1 octave)",
+            "A\u266d major (1 octave)",
+            "G minor (harmonic, 1 octave)",
+            "C minor (harmonic, 1 octave)"
+          ],
+          "arpeggios": [
+            "All previous major and minor arpeggios (1 octave)",
+            "E major (1 octave)",
+            "E\u266d major (1 octave)",
+            "B\u266d major (1 octave)",
+            "A\u266d major (1 octave)",
+            "G minor (1 octave)",
+            "C minor (1 octave)"
+          ],
+          "studies": [
+            "Studies with mixed articulation and dynamics"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in good playing condition",
+          "accessories": [
+            "2\u20132.5 strength reed",
+            "Cork grease",
+            "Cleaning swab",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance (3\u20134 pieces)",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales of B, F#, Db and Gb",
+          "Harmonic minor scales of Bm, F#m, C#m and Bbm",
+          "Double flats and sharps",
+          "All diatonic intervals plus their qualities",
+          "Recognition of modulation to the dominant or relative key",
+          "Syncopation",
+          "Adding bar lines",
+          "Time signatures of 6/4 and 12/8",
+          "Chords II, ii, VI and vi in root position and first inversion",
+          "Imperfect and interrupted cadences",
+          "Writing cadences in SATB style",
+          "Harmonisation of a melody in SATB style",
+          "Set a rhythm to a given text couplet (8 bars)",
+          "Compose a melody to a given rhythm (8 bars)",
+          "Transposition into any key from the grade",
+          "Terms and signs",
+          "Ornaments",
+          "Baroque Suites",
+          "Orchestral String Instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sonatina",
+            "composer": "Malcolm Arnold"
+          },
+          {
+            "title": "Andante Cantabile",
+            "composer": "Tchaikovsky, arr. John Davies"
+          },
+          {
+            "title": "Clarinet Cakewalk",
+            "composer": "James Rae"
+          },
+          {
+            "title": "Sarabande",
+            "composer": "Handel"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All previous major and minor scales (2 octaves where possible)",
+            "B major (1 octave)",
+            "F# major (1 octave)",
+            "D\u266d major (1 octave)",
+            "G\u266d major (1 octave)",
+            "B minor (harmonic, 1 octave)",
+            "F# minor (harmonic, 1 octave)",
+            "C# minor (harmonic, 1 octave)",
+            "B\u266d minor (harmonic, 1 octave)"
+          ],
+          "arpeggios": [
+            "All previous major and minor arpeggios (2 octaves where possible)",
+            "B major (1 octave)",
+            "F# major (1 octave)",
+            "D\u266d major (1 octave)",
+            "G\u266d major (1 octave)",
+            "B minor (1 octave)",
+            "F# minor (1 octave)",
+            "C# minor (1 octave)",
+            "B\u266d minor (1 octave)"
+          ],
+          "studies": [
+            "Intermediate studies focusing on phrasing and articulation"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in good playing condition",
+          "accessories": [
+            "2.5\u20133 strength reed",
+            "Cork grease",
+            "Cleaning swab",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance (3\u20134 pieces)",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major scales",
+          "All minor scales in harmonic and melodic forms",
+          "All key signatures",
+          "All intervals, and their inversions",
+          "Recognition of modulation to the subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic, the cadential 6/4",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody in SATB or keyboard style including modulation",
+          "Compose a melody to a 4-line stanza of poetry",
+          "Compose an instrumental melody based on a given opening (8 bars)",
+          "Minuet and Trio form, Scherzo, Air with Variations, Recitative and Aria",
+          "Knowledge of composers",
+          "Orchestral woodwind instruments (standard)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "First Movement from Clarinet Concerto in C",
+            "composer": "K. Stamitz"
+          },
+          {
+            "title": "Arabesque",
+            "composer": "Burgm\u00fcller, arr. John Davies"
+          },
+          {
+            "title": "The Entertainer",
+            "composer": "Scott Joplin, arr. John Davies"
+          },
+          {
+            "title": "Valse",
+            "composer": "P. Tchaikovsky"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, 2 octaves where possible)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (2 octaves where possible)"
+          ],
+          "studies": [
+            "Advanced studies with varied articulation, dynamics, and phrasing"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in good playing condition",
+          "accessories": [
+            "3 strength reed",
+            "Cork grease",
+            "Cleaning swab",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance (3\u20134 pieces)",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii",
+          "Passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes",
+          "Suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Compose a melody to a 4-line stanza of poetry, with modulation",
+          "Compose a vocal melody after a given phrase, with modulation",
+          "Sonata, Symphony, Concerto, Overture",
+          "Knowledge of composers with reference to examples",
+          "Sonata form",
+          "Reference to piano sonata by Mozart or Beethoven",
+          "Set work: two movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Rondo",
+            "composer": "C.M. von Weber"
+          },
+          {
+            "title": "Romance",
+            "composer": "Carl Maria von Weber"
+          },
+          {
+            "title": "Sicilienne",
+            "composer": "Maria Theresia von Paradis, arr. John Davies"
+          },
+          {
+            "title": "Sonatina",
+            "composer": "Malcolm Arnold"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, 2 octaves where possible)",
+            "Chromatic scale (full range)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (2 octaves where possible)",
+            "Dominant 7th arpeggios (starting on C, G, D, F, B\u266d, E\u266d, A)"
+          ],
+          "studies": [
+            "Advanced studies focusing on tone, technique, and expressiveness"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d clarinet in excellent playing condition",
+          "accessories": [
+            "3\u20133.5 strength reed",
+            "Cork grease",
+            "Cleaning swab",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance (3\u20134 pieces)",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      }
+    },
+    "trumpet": {
+      "preliminary": {
+        "theory_topics": [
+          "Treble clef notation",
+          "Pitches up to two ledger lines above and below the staff",
+          "Basic accidentals (sharps, flats, naturals)",
+          "C, G and F major scales",
+          "Key signatures for C, G and F major",
+          "Tones and semitones",
+          "Simple time signatures (2/4, 3/4, 4/4, C)",
+          "Basic note values (semibreve to quaver)",
+          "Simple musical terms (e.g. forte, piano, staccato, legato)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "March of the Trumpets",
+            "composer": "Trad. arr. Mark Walton"
+          },
+          {
+            "title": "Bugle Call",
+            "composer": "Trad."
+          },
+          {
+            "title": "The Clown",
+            "composer": "James Rae"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d trumpet in good playing condition",
+          "accessories": [
+            "mouthpiece",
+            "valve oil",
+            "music stand",
+            "cleaning cloth"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "All major and minor scales (harmonic and melodic forms)",
+          "All key signatures",
+          "All intervals and their inversions",
+          "Recognition of modulation to subdominant, dominant, and relative keys",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic (cadential 6/4)",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody in keyboard style",
+          "Minuet and Trio, Scherzo, Air with Variations, Recitative and Aria",
+          "Orchestral brass instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in E-flat, 1st movt.",
+            "composer": "Haydn"
+          },
+          {
+            "title": "Sonata for Trumpet and Piano, 1st movt.",
+            "composer": "Halsey Stevens"
+          },
+          {
+            "title": "Concert Etude",
+            "composer": "Alexander Goedicke"
+          },
+          {
+            "title": "Andante et Allegro",
+            "composer": "Guy Ropartz"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major scales (two octaves where possible)",
+            "All minor scales (harmonic and melodic, two octaves where possible)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves where possible)"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d trumpet (in excellent condition, suitable for advanced repertoire)",
+          "accessories": [
+            "mouthpiece (personal preference)",
+            "valve oil",
+            "slide grease",
+            "mute (straight)",
+            "music stand",
+            "cleaning kit"
+          ]
+        },
+        "exam_structure": {
+          "duration": "45 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight Reading",
+            "Theory"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "Chord iii and passing 6/4 chords",
+          "Dominant 7th chords and their inversions",
+          "Accented passing notes and suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint",
+          "Advanced harmonisation and modulation",
+          "Sonata, Symphony, Concerto, Overture forms",
+          "Knowledge of composers and set works"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in E-flat, 3rd movt.",
+            "composer": "Haydn"
+          },
+          {
+            "title": "Sonata for Trumpet and Piano",
+            "composer": "Kent Kennan"
+          },
+          {
+            "title": "Intrada",
+            "composer": "Otto Ketting"
+          },
+          {
+            "title": "Legende",
+            "composer": "Georges Enesco"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves)",
+            "Chromatic scale (full range)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves)",
+            "Dominant 7th arpeggios"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d trumpet (professional model recommended), C trumpet optional",
+          "accessories": [
+            "mouthpiece",
+            "valve oil",
+            "slide grease",
+            "straight and cup mutes",
+            "music stand",
+            "cleaning kit"
+          ]
+        },
+        "exam_structure": {
+          "duration": "60 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight Reading",
+            "Theory",
+            "General Knowledge"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic harmony and modulation",
+          "Extended chords (9th, 11th, 13th)",
+          "Advanced counterpoint",
+          "Orchestration for brass",
+          "Analysis of sonata, concerto, and symphonic forms",
+          "Historical performance practice"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto for Trumpet",
+            "composer": "Arutiunian"
+          },
+          {
+            "title": "Sonata for Trumpet and Piano",
+            "composer": "Eric Ewazen"
+          },
+          {
+            "title": "Concertino",
+            "composer": "Andr\u00e9 Jolivet"
+          },
+          {
+            "title": "Sonata for Trumpet and Piano",
+            "composer": "Paul Hindemith"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (three octaves where possible)",
+            "Whole tone and diminished scales",
+            "Chromatic scale (full range)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th arpeggios (two octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d and C trumpets (both required for some repertoire)",
+          "accessories": [
+            "multiple mouthpieces",
+            "valve oil",
+            "slide grease",
+            "straight, cup, harmon and practice mutes",
+            "music stand",
+            "cleaning kit"
+          ]
+        },
+        "exam_structure": {
+          "duration": "75 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight Reading",
+            "General Knowledge",
+            "Viva Voce"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic and atonal harmony",
+          "Complex counterpoint and fugue",
+          "Orchestration and arranging for brass ensemble",
+          "Detailed analysis of 20th and 21st century trumpet repertoire",
+          "Performance practice in historical and contemporary styles"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Sequenza X",
+            "composer": "Luciano Berio"
+          },
+          {
+            "title": "Trumpet Concerto",
+            "composer": "Henri Tomasi"
+          },
+          {
+            "title": "Sonata for Trumpet and Piano",
+            "composer": "Stjepan \u0160ulek"
+          },
+          {
+            "title": "Caprice",
+            "composer": "Vassily Brandt"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, whole tone, diminished, and modal scales (full range)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, and extended arpeggios (full range)"
+          ]
+        },
+        "equipment": {
+          "instrument": "B\u266d, C, and piccolo trumpets (as required by repertoire)",
+          "accessories": [
+            "multiple mouthpieces",
+            "valve oil",
+            "slide grease",
+            "full set of mutes (straight, cup, harmon, plunger, practice)",
+            "music stand",
+            "cleaning kit"
+          ]
+        },
+        "exam_structure": {
+          "duration": "90 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Sight Reading",
+            "General Knowledge",
+            "Viva Voce",
+            "Repertoire Discussion"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original research and analysis of trumpet literature",
+          "Advanced performance practice and interpretation",
+          "Contemporary techniques and extended trumpet repertoire",
+          "Brass pedagogy and advanced teaching methods",
+          "Preparation and presentation of lecture-recitals"
+        ],
+        "performance_pieces": [
+          {
+            "title": "A substantial original recital program (minimum 60 minutes)",
+            "composer": "Various, including at least one Australian composer"
+          },
+          {
+            "title": "Commissioned or contemporary work",
+            "composer": "To be approved by panel"
+          },
+          {
+            "title": "Baroque or Classical work (original or arranged for trumpet)",
+            "composer": "e.g. Neruda, Hummel, Haydn"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, modal, whole tone, diminished, and synthetic scales (full range, at advanced tempi)"
+          ],
+          "arpeggios": [
+            "All arpeggios and chord patterns (full range, at advanced tempi)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Full set of orchestral and solo trumpets (B\u266d, C, E\u266d, piccolo, flugelhorn as required)",
+          "accessories": [
+            "full mute set",
+            "multiple mouthpieces",
+            "valve oil",
+            "slide grease",
+            "music stand",
+            "cleaning kit",
+            "audio/visual presentation equipment (for lecture-recital)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "2 hours",
+          "sections": [
+            "Recital Performance",
+            "Technical Work",
+            "Lecture-Recital or Viva Voce",
+            "Repertoire and Pedagogy Discussion"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble clef",
+          "Pitches up to two ledger lines above and below the staff",
+          "Accidentals (sharps, flats, naturals)",
+          "Scales of C, G and F major",
+          "Key signatures for C, G and F major",
+          "Tones and semitones",
+          "Scale degrees",
+          "Tonic triad chords in root position (treble clef)",
+          "Note values from semibreve to quaver (including dotted minims)",
+          "Rest values of minim and crotchet",
+          "Time signatures of 2/4, 3/4, 4/4 and C",
+          "Basic musical terms"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Lightly Row",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Ode to Joy",
+            "composer": "L. van Beethoven"
+          },
+          {
+            "title": "Twinkle, Twinkle, Little Star",
+            "composer": "Traditional"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)"
+          ],
+          "studies": [
+            "Simple tonguing and slurring exercises",
+            "Long tone studies"
+          ]
+        },
+        "equipment": {
+          "instrument": "Bb trumpet in good playing condition",
+          "accessories": [
+            "Trumpet mouthpiece",
+            "Valve oil",
+            "Cleaning cloth",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor harmonic scales of Am, Em and Dm",
+          "Intervals above the tonic by number and quality (treble clef)",
+          "Tonic triads in the keys for this grade",
+          "Semiquavers, quaver triplets and dotted notes",
+          "The anacrusis",
+          "The whole bar (semibreve) rest",
+          "Time signature of 6/8",
+          "Terms and signs",
+          "Binary and ternary form"
+        ],
+        "performance_pieces": [
+          {
+            "title": "The Clown",
+            "composer": "J. Last"
+          },
+          {
+            "title": "Minuet",
+            "composer": "J.S. Bach"
+          },
+          {
+            "title": "Go Down Moses",
+            "composer": "Spiritual, arr. R. Smith"
+          },
+          {
+            "title": "The Echo Waltz",
+            "composer": "A. Pratt"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C, G, F, D, A major (one octave)",
+            "A, D, E minor harmonic (one octave)"
+          ],
+          "arpeggios": [
+            "C, G, F, D, A major (one octave)",
+            "A minor harmonic (one octave)"
+          ],
+          "studies": [
+            "Simple articulation studies (staccato and legato)",
+            "Easy flexibility exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "Bb trumpet in good playing condition",
+          "accessories": [
+            "Trumpet mouthpiece",
+            "Valve oil",
+            "Slide grease",
+            "Cleaning cloth",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "18 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales of E, Eb, Bb and Ab",
+          "Minor harmonic scales of Gm and Cm",
+          "Intervals above the tonic in all keys (treble clef)",
+          "Primary triads (tonic, dominant, subdominant)",
+          "Root position and first inversion triads",
+          "Perfect and plagal cadences",
+          "Time signatures of 2/2, 3/2, 3/8 and 9/8",
+          "Terms and signs",
+          "Sequences",
+          "Rondo form"
+        ],
+        "performance_pieces": [
+          {
+            "title": "March of the Champions",
+            "composer": "P. Sparke"
+          },
+          {
+            "title": "Andante (from Trumpet Concerto)",
+            "composer": "J. Haydn"
+          },
+          {
+            "title": "The Entertainer",
+            "composer": "S. Joplin, arr. R. Vinter"
+          },
+          {
+            "title": "Simple Gifts",
+            "composer": "Traditional, arr. H. Purcell"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C, G, F, D, A, E, Bb major (one octave)",
+            "A, D, E, G, C minor harmonic (one octave)"
+          ],
+          "arpeggios": [
+            "C, G, F, D, A, E, Bb major (one octave)",
+            "A, D, G minor harmonic (one octave)"
+          ],
+          "studies": [
+            "Intermediate tonguing and slurring exercises",
+            "Simple lip slur studies"
+          ]
+        },
+        "equipment": {
+          "instrument": "Bb trumpet in good playing condition",
+          "accessories": [
+            "Trumpet mouthpiece",
+            "Valve oil",
+            "Slide grease",
+            "Cleaning cloth",
+            "Mute (straight)",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales of B, F#, Db and Gb",
+          "Harmonic minor scales of Bm, F#m, C#m and Bbm",
+          "Double flats and sharps",
+          "All diatonic intervals plus their qualities",
+          "Recognition of modulation to the dominant or relative key",
+          "Syncopation",
+          "Time signatures of 6/4 and 12/8",
+          "Chords II, ii, VI and vi in root position and first inversion",
+          "Imperfect and interrupted cadences",
+          "Terms and signs",
+          "Ornaments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Trumpet Tune",
+            "composer": "H. Purcell"
+          },
+          {
+            "title": "Sonatina",
+            "composer": "J. Goedicke"
+          },
+          {
+            "title": "The Acrobat",
+            "composer": "J.A. Greenwood"
+          },
+          {
+            "title": "Londonderry Air",
+            "composer": "Traditional, arr. J. Wallace"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major scales up to 2 sharps and 2 flats (one octave)",
+            "All minor harmonic scales up to 2 sharps and 2 flats (one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 2 sharps and 2 flats (one octave)"
+          ],
+          "studies": [
+            "Flexibility studies (lip slurs, wide intervals)",
+            "Syncopated rhythm exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "Bb trumpet in good playing condition",
+          "accessories": [
+            "Trumpet mouthpiece",
+            "Valve oil",
+            "Slide grease",
+            "Cleaning cloth",
+            "Mute (straight and cup)",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "22 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major scales",
+          "All minor scales in harmonic and melodic forms",
+          "All key signatures",
+          "All intervals, and their inversions",
+          "Recognition of modulation to the subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic, the cadential 6/4",
+          "Unaccented passing and auxiliary notes",
+          "Terms and signs",
+          "Minuet and Trio form, Scherzo, Air with Variations"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Allegro (from Trumpet Concerto in Eb)",
+            "composer": "J.N. Hummel"
+          },
+          {
+            "title": "Concert Etude",
+            "composer": "A. Goedicke"
+          },
+          {
+            "title": "Aria",
+            "composer": "E. Bozza"
+          },
+          {
+            "title": "Bugler's Holiday",
+            "composer": "L. Anderson"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, one octave)",
+            "Chromatic scale (one octave, starting on C)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (one octave)"
+          ],
+          "studies": [
+            "Advanced articulation studies (double tonguing)",
+            "Lip flexibility and range extension exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "Bb trumpet in good playing condition",
+          "accessories": [
+            "Trumpet mouthpiece",
+            "Valve oil",
+            "Slide grease",
+            "Cleaning cloth",
+            "Mute (straight, cup, harmon)",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii",
+          "Passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes",
+          "Suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Sonata, Symphony, Concerto, Overture",
+          "Sonata form",
+          "Terms and signs"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Concerto in Eb Major, 2nd movt.",
+            "composer": "J. Haydn"
+          },
+          {
+            "title": "Legende",
+            "composer": "G. Enesco"
+          },
+          {
+            "title": "Sonata for Trumpet and Piano, 1st movt.",
+            "composer": "K. Kennan"
+          },
+          {
+            "title": "Concert Piece",
+            "composer": "J. Goedicke"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, two octaves where possible)",
+            "Chromatic scale (two octaves, starting on C)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves where possible)"
+          ],
+          "studies": [
+            "Advanced flexibility studies (wide intervals, lip trills)",
+            "Double and triple tonguing exercises"
+          ]
+        },
+        "equipment": {
+          "instrument": "Bb trumpet in excellent playing condition",
+          "accessories": [
+            "Trumpet mouthpiece",
+            "Valve oil",
+            "Slide grease",
+            "Cleaning cloth",
+            "Mute (straight, cup, harmon, practice)",
+            "Music stand"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      }
+    },
+    "voice": {
+      "preliminary": {
+        "theory_topics": [
+          "Treble and bass clefs",
+          "Pitches within the stave",
+          "Simple rhythms (crotchets, minims, semibreves)",
+          "Basic time signatures (2/4, 3/4, 4/4)",
+          "Simple dynamics and articulation",
+          "Basic musical terms (e.g. forte, piano, staccato, legato)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "The Water is Wide",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Do-Re-Mi",
+            "composer": "Richard Rodgers"
+          },
+          {
+            "title": "Lavender's Blue",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Twinkle, Twinkle, Little Star",
+            "composer": "Traditional"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major (one octave)",
+            "G major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_7": {
+        "theory_topics": [
+          "All major and minor scales (harmonic and melodic forms)",
+          "All key signatures",
+          "All intervals and their inversions",
+          "Recognition of modulation to the subdominant and dominant",
+          "Dominant 7th chords, chord vii\u00b0 in minor keys",
+          "Cadential 6/4 chords",
+          "Unaccented and accented passing notes, auxiliary notes",
+          "Harmonisation of a melody in SATB or keyboard style including modulation",
+          "Composition of a melody to a 4-line stanza of poetry",
+          "Musical forms: Minuet and Trio, Scherzo, Air with Variations, Recitative and Aria",
+          "Knowledge of composers and standard orchestral woodwind instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Caro mio ben",
+            "composer": "Giordani"
+          },
+          {
+            "title": "Widmung",
+            "composer": "Schumann"
+          },
+          {
+            "title": "The Sally Gardens",
+            "composer": "Arr. Britten"
+          },
+          {
+            "title": "Somewhere",
+            "composer": "Bernstein"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major scales (two octaves where possible)",
+            "All minor scales, harmonic and melodic (two octaves where possible)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves where possible)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle",
+            "Original copies of music"
+          ]
+        },
+        "exam_structure": {
+          "duration": "30 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory"
+          ]
+        }
+      },
+      "grade_8": {
+        "theory_topics": [
+          "Chord iii, passing 6/4 chords, dominant 7th chords",
+          "Accented passing notes, suspensions, Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Composition of melodies to poetry with modulation",
+          "Vocal melody composition after a given phrase, with modulation",
+          "Sonata, Symphony, Concerto, Overture forms",
+          "Knowledge of composers with reference to examples",
+          "Sonata form and reference to piano sonatas by Mozart or Beethoven",
+          "Set work: movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+        ],
+        "performance_pieces": [
+          {
+            "title": "O mio babbino caro",
+            "composer": "Puccini"
+          },
+          {
+            "title": "An die Musik",
+            "composer": "Schubert"
+          },
+          {
+            "title": "Music for a While",
+            "composer": "Purcell"
+          },
+          {
+            "title": "I Dreamed a Dream",
+            "composer": "Sch\u00f6nberg"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (two octaves, harmonic and melodic forms)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (two octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle",
+            "Original copies of music"
+          ]
+        },
+        "exam_structure": {
+          "duration": "40 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Discussion"
+          ]
+        }
+      },
+      "associate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic harmony and modulation",
+          "Neapolitan and augmented sixth chords",
+          "Diminished 7th chords and their resolutions",
+          "Advanced counterpoint (two and three parts)",
+          "Analysis of sonata, rondo, and variation forms",
+          "Vocal and choral writing techniques",
+          "Text setting and word painting",
+          "Historical performance practice (Baroque to Modern)",
+          "Detailed knowledge of set works and composers"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Vaga luna, che inargenti",
+            "composer": "Bellini"
+          },
+          {
+            "title": "Come away, death",
+            "composer": "Quilter"
+          },
+          {
+            "title": "Sure on this shining night",
+            "composer": "Barber"
+          },
+          {
+            "title": "Du bist die Ruh",
+            "composer": "Schubert"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (two octaves, harmonic and melodic)",
+            "Chromatic scale (full vocal range)"
+          ],
+          "arpeggios": [
+            "All major, minor, and dominant 7th arpeggios (two octaves)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle",
+            "Original copies of music",
+            "Notebook for discussion"
+          ]
+        },
+        "exam_structure": {
+          "duration": "50 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Discussion",
+            "Repertoire Knowledge"
+          ]
+        }
+      },
+      "licentiate_diploma": {
+        "theory_topics": [
+          "Advanced chromatic and extended harmony",
+          "Modulation to remote keys",
+          "Complex counterpoint (three and four parts)",
+          "Analysis of 20th and 21st-century vocal repertoire",
+          "Orchestration for voice and ensemble",
+          "Advanced text setting and interpretation",
+          "Historical and stylistic context of vocal works",
+          "Detailed study of set works and composers"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Una voce poco fa",
+            "composer": "Rossini"
+          },
+          {
+            "title": "Les chemins de l'amour",
+            "composer": "Poulenc"
+          },
+          {
+            "title": "Sleep",
+            "composer": "Gurney"
+          },
+          {
+            "title": "Let the Florid Music Praise!",
+            "composer": "Britten"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (full vocal range, harmonic and melodic)",
+            "Chromatic and whole-tone scales"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th arpeggios (full range)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle",
+            "Original copies of music",
+            "Notebook for discussion"
+          ]
+        },
+        "exam_structure": {
+          "duration": "60 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Discussion",
+            "Repertoire Knowledge",
+            "Interpretation"
+          ]
+        }
+      },
+      "fellowship_diploma": {
+        "theory_topics": [
+          "Original composition or arrangement for voice",
+          "Advanced analysis of contemporary and historical vocal repertoire",
+          "Research and presentation on vocal literature",
+          "Innovative performance practice and interpretation",
+          "Integration of text, music, and dramatic intent",
+          "Critical review of vocal works and performances",
+          "Preparation of lecture-recital material"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Four Last Songs (selection)",
+            "composer": "R. Strauss"
+          },
+          {
+            "title": "Hermit Songs (selection)",
+            "composer": "Barber"
+          },
+          {
+            "title": "Wesendonck Lieder (selection)",
+            "composer": "Wagner"
+          },
+          {
+            "title": "Original composition or arrangement",
+            "composer": "Candidate"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major, minor, chromatic, whole-tone, and modal scales (full range)"
+          ],
+          "arpeggios": [
+            "All major, minor, dominant 7th, diminished 7th, and extended arpeggios (full range)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle",
+            "Original copies of music",
+            "Notebook for research and presentation",
+            "Audio-visual equipment (if required)"
+          ]
+        },
+        "exam_structure": {
+          "duration": "90 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural",
+            "Theory",
+            "Discussion",
+            "Lecture-Recital",
+            "Research Presentation"
+          ]
+        }
+      },
+      "grade_1": {
+        "theory_topics": [
+          "Treble and bass clefs",
+          "Pitches with up to two ledger lines",
+          "Accidentals",
+          "Scales of C, G and F major",
+          "Key signatures",
+          "Tones and semitones",
+          "Scale degrees",
+          "Diatonic intervals above the tonic (number only)",
+          "Tonic triad chords in root position",
+          "Note values from semibreve to quaver (including dotted minims)",
+          "Rest values of minim and crotchet",
+          "Time signatures of 2/4, 3/4, 4/4 and C",
+          "Transposition into any other key of this grade",
+          "Basic musical terms"
+        ],
+        "performance_pieces": [
+          {
+            "title": "The Water is Wide",
+            "composer": "Traditional"
+          },
+          {
+            "title": "Do-Re-Mi",
+            "composer": "Richard Rodgers"
+          },
+          {
+            "title": "Lavender's Blue",
+            "composer": "Traditional"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major",
+            "G major",
+            "F major (one octave)"
+          ],
+          "arpeggios": [
+            "C major (one octave)"
+          ],
+          "studies": [
+            "Simple vocalise on 'ah' (five-note scale)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice (any type)",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_2": {
+        "theory_topics": [
+          "Major scales of D and A",
+          "Minor harmonic scales of Am, Em and Dm",
+          "Intervals above the tonic by number and quality",
+          "Tonic triads in the keys for this grade",
+          "Semiquavers, quaver triplets and dotted notes",
+          "The anacrusis",
+          "The whole bar (semibreve) rest",
+          "Time signature of 6/8",
+          "Transposition into any other key for this grade",
+          "Terms and signs",
+          "Binary and ternary form",
+          "Identification of accented syllables in a text"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Morning Has Broken",
+            "composer": "Traditional"
+          },
+          {
+            "title": "The Little Sandman",
+            "composer": "Johannes Brahms"
+          },
+          {
+            "title": "The Owl and the Pussycat",
+            "composer": "Lin Marsh"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major",
+            "G major",
+            "F major",
+            "D major",
+            "A major (one octave)"
+          ],
+          "arpeggios": [
+            "C major",
+            "G major (one octave)"
+          ],
+          "studies": [
+            "Simple vocalise on 'ah' and 'oo' (five-note and octave scale)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice (any type)",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "15 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_3": {
+        "theory_topics": [
+          "Major scales of E, Eb, Bb and Ab",
+          "Minor harmonic scales of Gm and Cm",
+          "Intervals above the tonic in all keys (treble and bass clefs)",
+          "Primary triads (tonic, dominant and subdominant)",
+          "Root position and first inversion triads",
+          "Perfect and plagal cadences",
+          "SATB vocal style and range",
+          "Time signatures of 2/2, 3/2, 3/8 and 9/8",
+          "Transposition into any key for this grade",
+          "Terms and signs",
+          "Sequences",
+          "Rondo form",
+          "Set a rhythm to a provided text",
+          "Compose a 4-bar melody in a major key based on a given rhythmic pattern"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Where'er You Walk",
+            "composer": "G.F. Handel"
+          },
+          {
+            "title": "The Ash Grove",
+            "composer": "Welsh Traditional"
+          },
+          {
+            "title": "A Dream is a Wish Your Heart Makes",
+            "composer": "Mack David, Al Hoffman, Jerry Livingston"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "C major",
+            "G major",
+            "F major",
+            "D major",
+            "A major",
+            "E major (one octave)",
+            "A minor (harmonic, one octave)",
+            "E minor (harmonic, one octave)"
+          ],
+          "arpeggios": [
+            "C major",
+            "G major",
+            "A minor (one octave)"
+          ],
+          "studies": [
+            "Vocalise on 'ah' and 'ee' (one octave, ascending and descending)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice (any type)",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_4": {
+        "theory_topics": [
+          "Major scales of B, F#, Db and Gb",
+          "Harmonic minor scales of Bm, F#m, C#m and Bbm",
+          "Double flats and sharps",
+          "All diatonic intervals plus their qualities",
+          "Recognition of modulation to the dominant or relative key",
+          "Syncopation",
+          "Adding bar lines",
+          "Time signatures of 6/4 and 12/8",
+          "Chords II, ii, VI and vi in root position and first inversion",
+          "Imperfect and interrupted cadences",
+          "Writing cadences in SATB style",
+          "Harmonisation of a melody in SATB style",
+          "Set a rhythm to a given text couplet (8 bars)",
+          "Compose a melody to a given rhythm (8 bars)",
+          "Transposition into any key from the grade",
+          "Terms and signs",
+          "Ornaments",
+          "Baroque Suites",
+          "Orchestral String Instruments"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Caro mio ben",
+            "composer": "Giordani"
+          },
+          {
+            "title": "The Sally Gardens",
+            "composer": "Irish Traditional"
+          },
+          {
+            "title": "Feed the Birds",
+            "composer": "Richard & Robert Sherman"
+          },
+          {
+            "title": "Se Florindo \u00e8 fedele",
+            "composer": "A. Scarlatti"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major scales up to 2 sharps and 2 flats (one octave)",
+            "All minor scales (harmonic) up to 2 sharps and 2 flats (one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios up to 2 sharps and 2 flats (one octave)"
+          ],
+          "studies": [
+            "Vocalise with simple ornamentation (trill, mordent) on 'ah' (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice (any type)",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "20 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_5": {
+        "theory_topics": [
+          "All major scales",
+          "All minor scales in harmonic and melodic forms",
+          "All key signatures",
+          "All intervals, and their inversions",
+          "Recognition of modulation to the subdominant",
+          "Chord vii\u00b0 in minor keys",
+          "Chord Ic, the cadential 6/4",
+          "Unaccented passing and auxiliary notes",
+          "Harmonisation of a melody in SATB or keyboard style including modulation",
+          "Compose a melody to a 4-line stanza of poetry",
+          "Compose an instrumental melody based on a given opening (8 bars)",
+          "Minuet and Trio form, Scherzo, Air with Variations, Recitative and Aria",
+          "Knowledge of composers",
+          "Orchestral woodwind instruments (standard)"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Panis Angelicus",
+            "composer": "C\u00e9sar Franck"
+          },
+          {
+            "title": "The Mermaid's Song",
+            "composer": "Joseph Haydn"
+          },
+          {
+            "title": "Castle on a Cloud",
+            "composer": "Claude-Michel Sch\u00f6nberg"
+          },
+          {
+            "title": "Silent Noon",
+            "composer": "Ralph Vaughan Williams"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, one octave)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (one octave)"
+          ],
+          "studies": [
+            "Vocalise with dynamic contrast and legato/staccato articulation (one octave)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice (any type)",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      },
+      "grade_6": {
+        "theory_topics": [
+          "Chord iii",
+          "Passing 6/4 chords",
+          "Dominant 7th chords",
+          "Accented passing notes",
+          "Suspensions",
+          "Tierce de Picardie",
+          "Simple two-part counterpoint in keyboard style",
+          "Compose a melody to a 4-line stanza of poetry, with modulation",
+          "Compose a vocal melody after a given phrase, with modulation",
+          "Sonata, Symphony, Concerto, Overture",
+          "Knowledge of composers with reference to examples",
+          "Sonata form",
+          "Reference to piano sonata by Mozart or Beethoven",
+          "Set work: two movements from a symphony by Haydn, Mozart, Beethoven or Schubert"
+        ],
+        "performance_pieces": [
+          {
+            "title": "Voi che sapete",
+            "composer": "W.A. Mozart"
+          },
+          {
+            "title": "O Waly Waly",
+            "composer": "English Traditional"
+          },
+          {
+            "title": "Pie Jesu",
+            "composer": "Andrew Lloyd Webber"
+          },
+          {
+            "title": "Widmung",
+            "composer": "Robert Schumann"
+          }
+        ],
+        "technical_work": {
+          "scales": [
+            "All major and minor scales (harmonic and melodic, one octave and two octaves where possible)"
+          ],
+          "arpeggios": [
+            "All major and minor arpeggios (one octave and two octaves where possible)"
+          ],
+          "studies": [
+            "Vocalise including leaps of a 6th and 7th, and phrasing (one octave and beyond)"
+          ]
+        },
+        "equipment": {
+          "instrument": "Voice (any type)",
+          "accessories": [
+            "Piano accompaniment (live or backing track)",
+            "Music stand",
+            "Water bottle"
+          ]
+        },
+        "exam_structure": {
+          "duration": "25 minutes",
+          "sections": [
+            "Performance",
+            "Technical Work",
+            "Aural Tests",
+            "General Knowledge"
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "last_updated": "2025-08-06 17:14:37",
+    "source": "Real AMEB data + GPT-4.1 comprehensive generation + missing grades added",
+    "instruments_covered": [
+      "piano",
+      "guitar",
+      "violin",
+      "flute",
+      "clarinet",
+      "trumpet",
+      "voice"
+    ],
+    "grades_covered": [
+      "preliminary",
+      "grade_1",
+      "grade_2",
+      "grade_3",
+      "grade_4",
+      "grade_5",
+      "grade_6",
+      "grade_7",
+      "grade_8",
+      "associate_diploma",
+      "licentiate_diploma",
+      "fellowship_diploma"
+    ],
+    "total_grades": 12,
+    "total_instruments": 7
+  }
+}
